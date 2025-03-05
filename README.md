@@ -1,2 +1,2 @@
 # eLatim-vallex
-A shiny app for browsing syntatical data patterns
+A shiny app for browsing syntatical data patterns (under construction)
