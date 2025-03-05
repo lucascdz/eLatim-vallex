@@ -28,12 +28,12 @@ GetSemFeatures <- function(tracosMarquezFilepath,linkedTurtleFilepath){
    identical(SemFeatsDF$lemma,SemFeatsDF$lemma_check)
 
    # translate semantic traces
-   SemFeatsDF$semFeat <- NA
-   SemFeatsDF$semFeat[SemFeatsDF$animacy=='lugar'] <- 'lugar'
-   SemFeatsDF$semFeat[SemFeatsDF$animacy=='+animado' & SemFeatsDF$definiteness=='+humano'] <- 'humano'
-   SemFeatsDF$semFeat[SemFeatsDF$animacy=='+animado' & SemFeatsDF$definiteness=='-humano'] <- 'animado'
-   SemFeatsDF$semFeat[SemFeatsDF$animacy=='-animado' & SemFeatsDF$definiteness=='+definido'] <- 'concreto'
-   SemFeatsDF$semFeat[SemFeatsDF$animacy=='-animado' & SemFeatsDF$definiteness=='-definido'] <- 'abstrato'
+   SemFeatsDF$traco <- NA
+   SemFeatsDF$traco[SemFeatsDF$animacy=='lugar'] <- 'lugar'
+   SemFeatsDF$traco[SemFeatsDF$animacy=='+animado' & SemFeatsDF$definiteness=='+humano'] <- 'humano'
+   SemFeatsDF$traco[SemFeatsDF$animacy=='+animado' & SemFeatsDF$definiteness=='-humano'] <- 'animado'
+   SemFeatsDF$traco[SemFeatsDF$animacy=='-animado' & SemFeatsDF$definiteness=='+definido'] <- 'concreto'
+   SemFeatsDF$traco[SemFeatsDF$animacy=='-animado' & SemFeatsDF$definiteness=='-definido'] <- 'abstrato'
 
 
    # clear duplicates
@@ -42,7 +42,7 @@ GetSemFeatures <- function(tracosMarquezFilepath,linkedTurtleFilepath){
    #write(dupIds,'~/Desktop/temp.txt')
    SemFeatsDF$lila_id[SemFeatsDF$lemma=='auris' & SemFeatsDF$lila_id=='lilaLemma:90802'] <- 'lilaLemma:90784'
    SemFeatsDF$lila_id[SemFeatsDF$lemma=='copiae' & SemFeatsDF$lila_id=='lilaLemma:96517'] <- 'lilaLemma:157528'
-   SemFeatsDF$lila_id[SemFeatsDF$lemma=='liber' & SemFeatsDF$lila_id=='lilaLemma:110381' & SemFeatsDF$semFeat=='concreto'] <- 'lilaLemma:110382'
+   SemFeatsDF$lila_id[SemFeatsDF$lemma=='liber' & SemFeatsDF$lila_id=='lilaLemma:110381' & SemFeatsDF$traco=='concreto'] <- 'lilaLemma:110382'
    SemFeatsDF$lila_id[SemFeatsDF$lemma=='litus' & SemFeatsDF$lila_id=='lilaLemma:110639'] <- 'lilaLemma:110686'
    SemFeatsDF$lila_id[SemFeatsDF$lemma=='malum' & SemFeatsDF$lila_id=='lilaLemma:111418'] <- 'lilaLemma:111419'
    SemFeatsDF$lila_id[SemFeatsDF$lemma=='malus' & SemFeatsDF$lila_id=='lilaLemma:111418'] <- 'lilaLemma:111423'
@@ -54,7 +54,7 @@ GetSemFeatures <- function(tracosMarquezFilepath,linkedTurtleFilepath){
    SemFeatsDF <- SemFeatsDF[SemFeatsDF$id!='1128',]
 
    # clear table
-   SemFeatsDF <- SemFeatsDF[,colnames(SemFeatsDF) %in% c('lila_id','semFeat')]
+   SemFeatsDF <- SemFeatsDF[,colnames(SemFeatsDF) %in% c('lila_id','traco')]
 
    return(SemFeatsDF)
 

@@ -1,0 +1,1008 @@
+ontolex.LexicalEntry	ontolex.canonicalForm	Headword 	Definition 	Part of Speech 	Semantic Group 	Frequency Rank
+DCC001	lilaLemma:101542	et 	and 	Conjunction 	Conjunctions/Adverbs 	1
+DCC002	lilaLemma:126689	sum esse fuī futūrum 	"be, exist; fut. infin. often = fore, impf. subj. often = forem for essem "	Verb: Irregular 	Life and Being 	2
+DCC003	lilaLemma:121354	quī quae quod 	who, which, what 	Pronoun 	Pronouns/Interrogatives 	3
+DCC004	lilaLemma:131416	que 	and (postpositive enclitic) 	Conjunction 	Conjunctions/Adverbs 	4
+DCC005	lilaLemma:106748	in 	"in, on (+ abl.); into, onto (+ acc) "	Preposition 	Place 	5
+DCC006	lilaLemma:114108	nōn 	not 	Adverb 	Conjunctions/Adverbs 	6
+DCC007	lilaLemma:105455	hic haec hoc 	this, these 	Pronoun 	Pronouns/Interrogatives 	7
+DCC008	lilaLemma:106221	ille illa illud 	that 	Pronoun 	Pronouns/Interrogatives 	8
+DCC009	lilaLemma:129131	tū tuī tibi tē 	you (sing.) 	Pronoun 	Pronouns/Interrogatives 	9
+DCC010	lilaLemma:97201	cum 	"with (prep. + abl.); when, since, although (conjunction + subj.) "	Preposition 	Conjunctions/Adverbs 	10
+DCC011	lilaLemma:100712	ego meī mihi mē 	I, me 	Pronoun 	Pronouns/Interrogatives 	11
+DCC012	lilaLemma:121315	quisquam quicquam/quidquam 	any (single) person, anyone at all 	Pronoun 	Pronouns/Interrogatives 	12
+DCC013	lilaLemma:109083	is ea id 	he, she, it 	Pronoun 	Pronouns/Interrogatives 	13
+DCC014	lilaLemma:87344	ad 	to, up to, towards (+acc.) 	Preposition 	Place 	14
+DCC015	lilaLemma:130905	ut, utī 	"as (+ indic.); so that, with the result that (+ subj.); (in questions) in what manner, how; (exclam.) to what an extent! how! "	Adverb 	Conjunctions/Adverbs 	15
+DCC016	lilaLemma:124676	sī 	if 	Conjunction 	Conjunctions/Adverbs 	16
+DCC017	lilaLemma:131255	sui sibi sē/sēsē 	him- her- itself, themselves 	Pronoun 	Pronouns/Interrogatives 	17
+DCC018	lilaLemma:114954	omnis -e 	all, every, as a whole 	Adjective: 3rd Declension	Measurement 	18
+DCC019	lilaLemma:113512	nec 	"and not, nor; nec ... nec, neither ... nor; → neque "	Conjunction 	Conjunctions/Adverbs 	19
+DCC020	lilaLemma:123994	sed 	but 	Conjunction 	Conjunctions/Adverbs 	20
+DCC021	lilaLemma:86824	ā ab abs 	from, by (+abl.) 	Preposition 	Place 	21
+DCC022	lilaLemma:108945	ipse ipsa ipsum 	him- her- itself 	Pronoun 	Pronouns/Interrogatives 	22
+DCC023	lilaLemma:118569	possum posse potuī 	be able 	Verb: Irregular 	Making/Doing 	23
+DCC024	lilaLemma:90827	aut 	or 	Conjunction 	Conjunctions/Adverbs 	24
+DCC025	lilaLemma:111319	māgnus -a -um 	great 	Adjective: 1st and 2nd Declension	Measurement 	25
+DCC026	lilaLemma:101716	ex, ē 	out of, from (+ abl.) 	Preposition 	Place 	26
+DCC027	lilaLemma:127165	suus -a -um 	his own, her own, its own 	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	27
+DCC028	lilaLemma:99970	dō dare dedī datum 	give 	Verb: 1st Conjugation	Social Life 	28
+DCC029	lilaIpoLemma:110471	quam 	"how?; (after comparative) than "	Adverb 	Pronouns/Interrogatives 	29
+DCC030	lilaLemma:116569	per 	through (+acc.) 	Preposition 	Place 	30
+DCC031	lilaLemma:130163	videō vidēre vīdī vīsum 	see 	Verb: 2nd Conjugation	Vision 	31
+DCC032	lilaLemma:102758	faciō facere fēcī factum 	do, make 	Verb: 3rd Conjugation -iō	Making/Doing 	32
+DCC033	lilaLemma:99302	dīcō dīcere dīxī dictum 	"say; causam dīcere, plead a case; diem dīcere, appoint a day "	Verb: 3rd Conjugation -ō	Speech/Oratory 	33
+DCC034	lilaLemma:106025	iam 	"now; already "	Adverb 	Time 	34
+DCC035	lilaLemma:90490	atque 	"and in addition, and also, and; (after comparatives) than; simul atque, as soon as; → ac "	Conjunction 	Conjunctions/Adverbs 	35
+DCC036	lilaLemma:90490	ac 	"and in addition, and also, and; (after comparatives) than; simul ac, as soon as; → atque "	Conjunction 	Conjunctions/Adverbs 	36
+DCC037	lilaLemma:88481	alius -a -ud 	"other, another; ālias: at another time "	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	37
+DCC038	lilaLemma:121868	rēs reī f. 	"thing (rēs pūblica, commonwealth; rēs familiāris, family property, estate; rēs mīlitāris, art of war; rēs novae, revolution) "	Noun: 5th Declension	Life and Being 	38
+DCC039	lilaLemma:105044	habeō habēre habuī habitum 	have, hold 	Verb: 2nd Conjugation	Other Senses 	39
+DCC040	lilaLemma:89094	animus -ī m. 	spirit, mind 	Noun: 2nd Declension	Life and Being 	40
+DCC041	lilaLemma:112262	meus -a -um 	my 	Pronoun 	Pronouns/Interrogatives 	41
+DCC042	lilaLemma:99132	"deus -ī m.; dea -ae f. "	"god; goddess "	Noun: 2nd Declension	Religion 	42
+DCC043	lilaLemma:112998	multus -a -um 	"much, many; multō, by far "	Adjective: 1st and 2nd Declension	Measurement 	43
+DCC044	lilaLemma:129328	tuus -a -um 	your 	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	44
+DCC045	lilaLemma:103126	ferō ferre tulī lātum 	bear, carry, endure 	Verb: Irregular 	Verbs of Transport 	45
+DCC046	lilaLemma:97932	dē 	down from, about, concerning (+ abl.) 	Preposition 	Place 	46
+DCC047	lilaLemma:113491	nē 	lest, that not 	Conjunction 	Conjunctions/Adverbs 	47
+DCC048	lilaLemma:111585	manus -ūs f. 	"hand; band of men "	Noun: 4th Declension	The Body 	48
+DCC049	lilaLemma:114081	nūllus -a -um 	not any, no one 	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	49
+DCC050	lilaLemma:113990	nunc 	now 	Adverb 	Time 	50
+DCC051	lilaIpoLemma:110487	nōs nostrum/nostrī nōbīs nōs 	we 	Pronoun 	Pronouns/Interrogatives 	51
+DCC052	lilaLemma:113882	noster nostra nostrum 	our 	Pronoun 	Pronouns/Interrogatives 	52
+DCC053	lilaLemma:85636	ūnus -a -um 	one 	Adjective: 1st and 2nd Declension	Measurement 	53
+DCC054	lilaLemma:99334	diēs diēī m./f. 	day 	Noun: 5th Declension	Lengths of Time 	54
+DCC055	lilaLemma:114071	nihil, nīl 	"nothing; not at all "	Noun: Indeclinable 	Measurement 	55
+DCC056	lilaLemma:129198	tum or tunc 	then 	Adverb 	Time 	56
+DCC057	lilaLemma:101119	enim 	for, indeed 	Conjunction 	Pronouns/Interrogatives 	57
+DCC058	lilaLemma:127607	tamen 	nevertheless, still 	Conjunction 	Conjunctions/Adverbs 	58
+DCC059	lilaLemma:109082	īdem eadem idem 	the same 	Pronoun 	Pronouns/Interrogatives 	59
+DCC060	lilaLemma:122013	rēx rēgis m. 	king 	Noun: 3rd Declension	The City 	60
+DCC061	lilaLemma:113344	nam or namque 	for, indeed, really 	Conjunction 	Conjunctions/Adverbs 	61
+DCC062	lilaLemma:110019	locus -ī m. 	"place; loca (n. pl.) region "	Noun: 2nd Declension	Geography 	62
+DCC063	lilaLemma:129790	veniō venīre vēnī ventum 	come 	Verb: 4th Conjugation	Motion 	63
+DCC064	lilaLemma:108392	inter 	"between, among; during (+ acc.) "	Preposition 	Place 	64
+DCC065	lilaLemma:116084	pars partis f. 	part 	Noun: 3rd Declension	Measurement 	65
+DCC066	lilaLemma:130745	volō velle voluī 	wish, be willing 	Verb: Irregular 	Emotions 	66
+DCC067	lilaLemma:101554	etiam 	also, even 	Adverb 	Conjunctions/Adverbs 	67
+DCC068	lilaLemma:91782	bonus -a -um 	good 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	68
+DCC069	lilaLemma:88140	agō agere ēgī āctum 	drive, do, act 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	69
+DCC070	lilaLemma:127912	terra -ae f. 	land 	Noun: 1st Declension	Earth and Water 	70
+DCC071	lilaLemma:116203	pater patris m. 	father, ancestor 	Noun: 3rd Declension	The Household 	71
+DCC072	lilaLemma:114120	neque 	"and not, nor; neque ... neque, neither ... nor; → nec "	Conjunction 	Conjunctions/Adverbs 	72
+DCC073	lilaLemma:100071	domus -ūs f. 	house, home 	Noun: 4th Declension	The House 	73
+DCC074	lilaLemma:87415	at 	but, but yet 	Conjunction 	Conjunctions/Adverbs 	74
+DCC075	lilaLemma:96667	corpus corporis n. 	body 	Noun: 3rd Declension	The Body 	75
+DCC076	lilaIpoLemma:110467	quoque 	also, too 	Conjunction 	Conjunctions/Adverbs 	76
+DCC077	lilaLemma:91108	aliquis -quae -quod 	"some, any; si quis, si quid: anyone who, anything that "	Pronoun 	Pronouns/Interrogatives 	77
+DCC078	lilaLemma:128484	tōtus -a -um 	whole, entire 	Adjective: 1st and 2nd Declension	Measurement 	78
+DCC079	lilaLemma:124690	sīc 	"in this manner, thus; sīc ... ut: in the same way as "	Adverb 	Conjunctions/Adverbs 	79
+DCC080	lilaIpoLemma:18676	hīc 	"here; hinc: from here "	Adverb 	Place 	80
+DCC081	lilaLemma:109122	iste ista istud 	"that, that of yours; adv. istīc or istūc: over there; istinc: from over there "	Pronoun 	Pronouns/Interrogatives 	81
+DCC082	lilaLemma:130822	urbs urbis f. 	city 	Noun: 3rd Declension	The City 	82
+DCC083	lilaLemma:117549	petō petere petīvī petītum 	seek, aim at 	Verb: 3rd Conjugation -ō	Motion 	83
+DCC084	lilaLemma:109152	iubeō iubēre iussī iussum 	bid, order 	Verb: 2nd Conjugation	Justice 	84
+DCC085	lilaLemma:130300	vir virī m. 	man 	Noun: 2nd Declension	People 	85
+DCC086	lilaLemma:91461	bellum -ī n. 	war 	Noun: 2nd Declension	War and Peace 	86
+DCC087	lilaLemma:130393	vīta -ae f. 	life 	Noun: 1st Declension	Life and Being 	87
+DCC088	lilaLemma:105624	homō hominis m. 	human being 	Noun: 3rd Declension	People 	88
+DCC089	lilaLemma:127522	tempus -oris n. 	time 	Noun: 3rd Declension	Time 	89
+DCC090	lilaLemma:111271	magis 	more 	Adverb 	Conjunctions/Adverbs 	90
+DCC091	lilaLemma:119498	prīmus -a -um 	first 	Adjective: 1st and 2nd Declension	Time 	91
+DCC092	lilaLemma:129639	ubi 	where, when 	Adverb 	Place 	92
+DCC093	lilaLemma:105757	hostis -is m./f. 	stranger, enemy 	Noun: 3rd Declension	War and Peace 	93
+DCC094	lilaLemma:88828	an 	"or (in questions); utrum ... an: whether ... or "	Conjunction 	Conjunctions/Adverbs 	94
+DCC095	lilaLemma:112807	mors mortis f. 	death 	Noun: 3rd Declension	Life and Being 	95
+DCC096	lilaLemma:127600	tam 	so, so much 	Adverb 	Conjunctions/Adverbs 	96
+DCC097	lilaLemma:101183	eō īre iī/īvī itum 	go 	Verb: Irregular 	Motion 	97
+DCC098	lilaLemma:89998	arma -ōrum n. pl. 	arms, weapons 	Noun: 2nd Declension	War and Peace 	98
+DCC099	lilaLemma:126999	superus -a -um 	situated above, upper 	Adjective: 1st and 2nd Declension	Religion 	99
+DCC100	lilaLemma:113704	nisi, nī 	if not, unless 	Conjunction 	Conjunctions/Adverbs 	100
+DCC101	lilaLemma:130232	vincō vincere vīcī victum 	conquer 	Verb: 3rd Conjugation -ō	War and Peace 	101
+DCC102	lilaLemma:118414	pōnō pōnere posuī positum 	"put, place; put aside "	Verb: 3rd Conjugation -ō	Verbs of Transport 	102
+DCC103	lilaLemma:100236	dum 	"while (+ indic.); until (+ subj.); provided that (+ subj.) "	Conjunction 	Time 	103
+DCC104	lilaLemma:124883	sine 	without (+ abl.) 	Preposition 	Non-Directional Prepositions 	104
+DCC105	lilaLemma:127630	tantus -a -um 	"so great, so much; (as pronoun) such a quantity, so much; tantī, at such a price, of such worth "	Adjective: 1st and 2nd Declension	Measurement 	105
+DCC106	lilaLemma:127822	teneō -ēre -uī tentum 	hold, keep 	Verb: 2nd Conjugation	Other Senses 	106
+DCC107	lilaLemma:93253	causa -ae f. 	"cause, reason; causā + preceding genitive, for the sake of "	Noun: 1st Declension	Speech/Oratory 	107
+DCC108	lilaLemma:124461	sequor sequī secūtus sum 	follow 	Verb: Deponent 	Motion 	108
+DCC109	lilaLemma:96881	crēdō crēdere crēdidī crēditum 	believe 	Verb: 3rd Conjugation -ō	Education/Knowledge 	109
+DCC110	lilaLemma:87119	accipiō -cipere -cēpī -ceptum 	receive 	Verb: 3rd Conjugation -iō	Social Life 	110
+DCC111	lilaLemma:130356	virtūs -ūtis f. 	valor, manliness, virtue 	Noun: 3rd Declension	Personality Traits/Characteristics 	111
+DCC112	lilaLemma:89164	ante 	before, in front of (adv. and prep. + acc.) 	Preposition 	Time 	112
+DCC113	lilaLemma:121047	quaerō -rere -sīvī -sītum 	seek, inquire 	Verb: 3rd Conjugation -ō	Education/Knowledge 	113
+DCC114	lilaLemma:112499	mittō mittere mīsī missum 	send, let go 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	114
+DCC115	lilaLemma:130360	vīs f. 	"force; (acc.) vim, (abl.) vī; (pl.) vīrēs, strength "	Noun: 3rd Declension	War and Peace 	115
+DCC116	lilaLemma:88717	amor -ōris m. 	love 	Noun: 3rd Declension	Love 	116
+DCC117	lilaLemma:92231	caelum -ī n. 	sky, heavens 	Noun: 2nd Declension	Air and Fire 	117
+DCC118	lilaLemma:125956	sub 	under, close to (+acc. or abl.) 	Preposition 	Place 	118
+DCC119	lilaLemma:113901	nox noctis f. 	night 	Noun: 3rd Declension	Lengths of Time 	119
+DCC120	lilaLemma:109126	ita 	thus, so 	Adverb 	Conjunctions/Adverbs 	120
+DCC121	lilaLemma:121683	rēgnum -ī n. 	kingship, kingdom 	Noun: 2nd Declension	Geography 	121
+DCC122	lilaLemma:118463	populus -ī m. 	people 	Noun: 2nd Declension	The City 	122
+DCC123	lilaLemma:90828	autem 	moreover, but, however 	Conjunction 	Conjunctions/Adverbs 	123
+DCC124	lilaLemma:92796	caput capitis n. 	head 	Noun: 3rd Declension	The Body 	124
+DCC125	lilaLemma:111604	mare -is n. 	sea 	Noun: 3rd Declension	Earth and Water 	125
+DCC126	lilaLemma:121313	quīdam quaedam quoddam 	a certain one, someone 	Pronoun 	Pronouns/Interrogatives 	126
+DCC127	lilaLemma:111688	māter mātris f. 	mother 	Noun: 3rd Declension	The Household 	127
+DCC128	lilaLemma:118468	prō 	for, on behalf of, in proportion to (+abl.) 	Preposition 	Non-Directional Prepositions 	128
+DCC129	lilaLemma:121322	quisquis quidquid 	whoever, whichever 	Pronoun 	Pronouns/Interrogatives 	129
+DCC130	lilaIpoLemma:110488	vōs 	"you (pl.); (gen.) vestrum/vestrī, (dat./abl.) vōbīs, (acc.) vōs "	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	130
+DCC131	lilaLemma:92686	capiō capere cēpī captum 	seize 	Verb: 3rd Conjugation -iō	War and Peace 	131
+DCC132	lilaLemma:121166	quia 	because 	Conjunction 	Conjunctions/Adverbs 	132
+DCC133	lilaLemma:100196	dūcō dūcere dūxī ductum 	"lead; uxōrem dūcere, marry "	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	133
+DCC134	lilaLemma:101415	ergō 	therefore 	Conjunction 	Conjunctions/Adverbs 	134
+DCC135	lilaLemma:113797	nōmen -inis n. 	name 	Noun: 3rd Declension	Social Life 	135
+DCC136	lilaLemma:121168	quidem 	certainly, at least 	Adverb 	Conjunctions/Adverbs 	136
+DCC137	lilaLemma:112452	miser misera miserum 	wretched, pitiable 	Adjective: 1st and 2nd Declension	Emotions 	137
+DCC138	lilaLemma:103696	fortūna -ae f. 	fortune 	Noun: 1st Declension	Religion 	138
+DCC139	lilaLemma:113900	novus -a -um 	new 	Adjective: 1st and 2nd Declension	Time 	139
+DCC140	lilaLemma:104903	gravis -e 	heavy, serious 	Adjective: 3rd Declension	Measurement 	140
+DCC141	lilaLemma:129695	vel 	"or else, or; even; vel ... vel: either … or "	Conjunction 	Conjunctions/Adverbs 	141
+DCC142	lilaLemma:110796	longus -a -um 	long, far 	Adjective: 1st and 2nd Declension	Measurement 	142
+DCC143	lilaLemma:116136	parvus -a -um 	small 	Adjective: 1st and 2nd Declension	Measurement 	143
+DCC144	lilaLemma:122569	relinquō -linquere -līquī -lictum 	abandon 	Verb: 3rd Conjugation -ō	Motion 	144
+DCC145	lilaLemma:123106	saepe 	often 	Adverb 	Time 	145
+DCC146	lilaLemma:103328	fīō fierī factus sum 	become, happen, be done 	Verb: Irregular 	Life and Being 	146
+DCC147	lilaLemma:115327	ōs ōris n. 	mouth, face 	Noun: 3rd Declension	The Body 	147
+DCC148	lilaLemma:88457	alter altera alterum 	other of two 	Adjective: 1st and 2nd Declension	Measurement 	148
+DCC149	lilaLemma:124294	semper 	always, ever 	Adverb 	Time 	149
+DCC150	lilaLemma:98386	deinde/dein 	then, next 	Adverb 	Time 	150
+DCC151	lilaLemma:106156	ignis -is m. 	fire 	Noun: 3rd Declension	Air and Fire 	151
+DCC152	lilaLemma:113289	modo 	"just, just now; modo ... modo: now ... now, at one moment ... at another, sometimes ... sometimes "	Adverb 	Time 	152
+DCC153	lilaLemma:128264	timeō -ēre -uī 	to fear, to dread 	Verb: 2nd Conjugation	Emotions 	153
+DCC154	lilaLemma:123667	scelus -eris n. 	crime, sin 	Noun: 3rd Declension	Justice 	154
+DCC155	lilaLemma:97963	dēbeō dēbēre dēbuī dēbitum 	owe, be obliged 	Verb: 2nd Conjugation	Business/Money 	155
+DCC156	lilaLemma:130476	vīvō vīvere vīxī vīctum 	live 	Verb: 3rd Conjugation -ō	Life and Being 	156
+DCC157	lilaLemma:103575	fātum -ī n. 	"fate; death "	Noun: 2nd Declension	Religion 	157
+DCC158	lilaLemma:130729	vocō -āre 	call 	Verb: 1st Conjugation	Speech/Oratory 	158
+DCC159	lilaIpoLemma:1781	altus -a -um 	"high, lofty; deep "	Adjective: 1st and 2nd Declension	Geography 	159
+DCC160	lilaLemma:116061	parō -āre 	"prepare, acquire; parātus -a -um, ready "	Verb: 1st Conjugation	Making/Doing 	160
+DCC161	lilaLemma:112318	mīles -itis m. 	soldier 	Noun: 3rd Declension	War and Peace 	161
+DCC162	lilaLemma:111841	medius -a -um 	middle, central 	Adjective: 1st and 2nd Declension	Place 	162
+DCC163	lilaLemma:108033	inquam, inquis, inquit, inquiunt: 	say (used with direct speech) 	Verb: Irregular 	Speech/Oratory 	163
+DCC164	lilaLemma:118572	post 	after (adv. and prep. +acc.) 	Preposition 	Time 	164
+DCC165	lilaLemma:90641	audiō -īre -īvī/-iī -ītum 	hear, listen to 	Verb: 4th Conjugation	Other Senses 	165
+DCC166	lilaLemma:120610	putō -āre 	think, suppose 	Verb: 1st Conjugation	Education/Knowledge 	166
+DCC167	lilaLemma:89129	annus -ī m. 	year 	Noun: 2nd Declension	Lengths of Time 	167
+DCC168	lilaLemma:124554	stō stāre stetī statum 	stand 	Verb: 1st Conjugation	Life and Being 	168
+DCC169	lilaLemma:130806	vōx vōcis f. 	voice, utterance 	Noun: 3rd Declension	Speech/Oratory 	169
+DCC170	lilaLemma:104504	genus generis n. 	origin, lineage, kind 	Noun: 3rd Declension	The Household 	170
+DCC171	lilaLemma:122494	referō referre rettulī relātum 	"bring back; report "	Verb: Irregular 	Verbs of Transport 	171
+DCC172	lilaLemma:123732	sciō -īre -īvī/-iī -ītum 	know 	Verb: 4th Conjugation	Education/Knowledge 	172
+DCC173	lilaLemma:112038	mēns mentis f. 	mind 	Noun: 3rd Declension	The Body 	173
+DCC174	lilaLemma:122458	reddō -dere -didī -ditum 	return, give back 	Verb: 3rd Conjugation -ō	Verbs of Transport 	174
+DCC175	lilaLemma:110432	licet licēre licuit licitum est 	it is permitted (+ dat. + infin.) 	Verb: Impersonal 	Justice 	175
+DCC176	lilaLemma:125109	sōlus -a -um 	only, alone 	Adjective: 1st and 2nd Declension	Measurement 	176
+DCC177	lilaLemma:103923	fugiō fugere fūgī fugitum 	flee, escape 	Verb: 3rd Conjugation -iō	Travel 	177
+DCC178	lilaLemma:130494	ūllus -a -um 	any, anyone 	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	178
+DCC179	lilaLemma:113605	nēmō 	no one (gen. nūllīus, dat. nūllī, abl. nūllō or nūllā → nūllus -a -um) 	Pronoun 	Pronouns/Interrogatives 	179
+DCC180	lilaLemma:113421	nātūra -ae f. 	nature 	Noun: 1st Declension	Life and Being 	180
+DCC181	lilaLemma:112831	mōs mōris m. 	"custom, habit; (pl.) character "	Noun: 3rd Declension	Social Life 	181
+DCC182	lilaLemma:91483	beneficium -ī n. 	service, kindness 	Noun: 2nd Declension	Social Life 	182
+DCC183	lilaLemma:116348	pectus -oris n. 	chest, breast 	Noun: 3rd Declension	The Body 	183
+DCC184	lilaLemma:103260	fidēs -eī f. 	trust, faith 	Noun: 5th Declension	Personality Traits/Characteristics 	184
+DCC185	lilaLemma:116222	patior patī passus sum 	permit, endure 	Verb: Deponent 	Verbs of Compelling/Directing 	185
+DCC186	lilaLemma:97301	cūra -ae f. 	care, concern 	Noun: 1st Declension	Love 	186
+DCC187	lilaLemma:108949	īra irae f. 	wrath, anger 	Noun: 1st Declension	Emotions 	187
+DCC188	lilaLemma:131057	verbum -ī n. 	word 	Noun: 2nd Declension	Writing/Poetry 	188
+DCC189	lilaLemma:119920	prope 	"near, next; (comp.) propior, (superl.) proximus; (adv.) prope, nearly, almost "	Preposition 	Place 	189
+DCC189	lilaLemma:119921	prope 	"near, next; (comp.) propior, (superl.) proximus; (adv.) prope, nearly, almost "	Preposition 	Place 	189
+DCC190	lilaLemma:116020	parēns -ntis m./f. 	parent 	Noun: 3rd Declension	The Household 	190
+DCC191	lilaLemma:118042	puer puerī m. 	"boy; slave "	Noun: 2nd Declension	People 	191
+DCC192	lilaLemma:112848	moveō -ēre mōvī mōtum 	move 	Verb: 2nd Conjugation	Motion 	192
+DCC193	lilaLemma:100034	dolor -ōris m. 	pain, grief 	Noun: 3rd Declension	Emotions 	193
+DCC194	lilaLemma:104490	gēns gentis f. 	family, clan 	Noun: 3rd Declension	The Household 	194
+DCC195	lilaLemma:112553	modus -ī m. 	measure, manner, kind 	Noun: 2nd Declension	Measurement 	195
+DCC196	lilaLemma:130088	via -ae f. 	way, street 	Noun: 1st Declension	Travel 	196
+DCC197	lilaLemma:121165	quisque quaeque quidque 	each one, everyone 	Pronoun 	Pronouns/Interrogatives 	197
+DCC198	lilaLemma:87667	amīcus -a -um 	"friendly; (as subst.) friend "	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	198
+DCC198	lilaLemma:88684	amīcus -a -um 	"friendly; (as subst.) friend "	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	198
+DCC199	lilaLemma:117499	pēs pedis m. 	foot 	Noun: 3rd Declension	The Body 	199
+DCC200	lilaLemma:106532	imperium -ī n. 	command, power 	Noun: 2nd Declension	War and Peace 	200
+DCC201	lilaLemma:109621	labor -ōris m. 	toil, exertion 	Noun: 3rd Declension	Business/Money 	201
+DCC202	lilaLemma:107799	ingēns ingentis 	huge, enormous 	Adjective: 3rd Declension	Measurement 	202
+DCC203	lilaLemma:127592	tālis tāle 	such 	Adjective: 3rd Declension	Measurement 	203
+DCC204	lilaLemma:116130	parum 	too little 	Adverb 	Measurement 	204
+DCC205	lilaLemma:89686	apud 	near, in the presence of (+acc.) 	Preposition 	Place 	205
+DCC206	lilaLemma:114716	oculus -ī m. 	eye 	Noun: 2nd Declension	The Body 	206
+DCC207	lilaLemma:130599	unda -ae f. 	wave, flowing water, water 	Noun: 1st Declension	Earth and Water 	207
+DCC208	lilaLemma:109129	itaque 	and so, therefore 	Conjunction 	Conjunctions/Adverbs 	208
+DCC209	lilaLemma:131009	vultus -ūs m. 	look, expression, face 	Noun: 4th Declension	The Body 	209
+DCC210	lilaLemma:92179	cadō cadere cecidī cāsum 	fall, be killed 	Verb: 3rd Conjugation -ō	Violence 	210
+DCC211	lilaLemma:113505	nātus -ī m. 	son 	Noun: 2nd Declension	The Household 	211
+DCC212	lilaLemma:121165	quis quid 	who? what? which? 	Pronoun 	Pronouns/Interrogatives 	212
+DCC213	lilaLemma:128552	trahō trahere trāxī trāctum 	drag, draw 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	213
+DCC214	lilaLemma:123363	sanguis -inis m. 	blood 	Noun: 3rd Declension	The Body 	214
+DCC215	lilaLemma:112261	metus -ūs m. 	fear, dread 	Noun: 4th Declension	Emotions 	215
+DCC216	lilaIpoLemma:110679	tantum, tantummodo 	only 	Adverb 	Measurement 	216
+DCC217	lilaLemma:96060	cōnsilium -ī n. 	"plan; council, group of advisors "	Noun: 2nd Declension	The City 	217
+DCC218	lilaLemma:95952	coniunx coniugis m./f. 	spouse, husband, wife 	Noun: 3rd Declension	The Household 	218
+DCC219	lilaLemma:88705	amō -āre 	"to love; amāns -ntis m./f.: lover "	Verb: 1st Conjugation	Love 	219
+DCC220	lilaLemma:110327	levis -e 	light, trivial 	Adjective: 3rd Declension	Measurement 	220
+DCC221	lilaLemma:100246	duo duae duo 	two 	Adjective: Numeral 	Measurement 	221
+DCC222	lilaLemma:103755	ferus -a -um 	"wild, fierce; fera -ae f.: wild animal "	Adjective: 1st and 2nd Declension	Animals/Plants 	222
+DCC223	lilaLemma:118263	poena -ae f. 	penalty, punishment 	Noun: 1st Declension	Justice 	223
+DCC224	lilaLemma:93023	castrum -ī n. 	fortress, (regularly plural, castra camp) 	Noun: 2nd Declension	War and Peace 	224
+DCC225	lilaLemma:103739	frāter frātris m. 	brother 	Noun: 3rd Declension	The Household 	225
+DCC226	lilaLemma:105206	haud 	not 	Adverb 	Conjunctions/Adverbs 	226
+DCC227	lilaLemma:111418	malus -a -um 	bad, evil 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	227
+DCC228	lilaLemma:106000	iaceō iacēre iacuī 	lie 	Verb: 2nd Conjugation	The House 	228
+DCC229	lilaLemma:110381	līber lībera līberum 	"free; līberī (m. pl.): freeborn children "	Adjective: 1st and 2nd Declension	Justice 	229
+DCC230	lilaLemma:109132	iter itineris n. 	journey, route 	Noun: 3rd Declension	Travel 	230
+DCC231	lilaLemma:103152	ferrum -ī n. 	iron, iron weapon or implement 	Noun: 2nd Declension	Violence 	231
+DCC232	lilaLemma:125336	spēs speī f. 	hope 	Noun: 5th Declension	Emotions 	232
+DCC233	lilaLemma:118823	puella -ae f. 	"girl; girl-friend "	Noun: 1st Declension	People 	233
+DCC234	lilaLemma:124801	silva -ae f. 	forest, grove 	Noun: 1st Declension	Animals/Plants 	234
+DCC235	lilaLemma:91473	bene 	well 	Adverb 	Personality Traits/Characteristics 	235
+DCC236	lilaLemma:103321	fīnis -is m. 	end, boundary 	Noun: 3rd Declension	Geography 	236
+DCC237	lilaLemma:104536	gerō gerere gessī gestum 	"bear, manage; bellum gerere, wage war "	Verb: 3rd Conjugation -ō	War and Peace 	237
+DCC238	lilaLemma:113492	ne (enclitic) 	interrogative particle attached to the emphatic word in a question 	Adverb 	Pronouns/Interrogatives 	238
+DCC239	lilaLemma:100327	dux ducis m./f. 	leader, general 	Noun: 3rd Declension	War and Peace 	239
+DCC240	lilaLemma:119437	premō premere pressī pressum 	press, pursue, overwhelm 	Verb: 3rd Conjugation -ō	War and Peace 	240
+DCC241	lilaLemma:98084	"dominus -ī m.; domina -ae f. "	"household master, lord; mistress "	Noun: 2nd Declension	The Household 	241
+DCC242	lilaLemma:112727	mōns montis m. 	mountain 	Noun: 3rd Declension	Geography 	242
+DCC243	lilaLemma:135768	uterque utraque utrumque 	each of two 	Conjunction 	Measurement 	243
+DCC244	lilaLemma:123131	saevus -a -um 	fierce, raging, wrathful 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	244
+DCC245	lilaLemma:110686	lītus -oris n. 	shore 	Noun: 3rd Declension	Geography 	245
+DCC246	lilaLemma:125051	soleō -ēre -uī -itum 	be accustomed 	Verb: 2nd Conjugation	Personality Traits/Characteristics 	246
+DCC247	lilaLemma:112335	mīlle (pl.) mīlia 	thousand 	Adjective: Numeral 	Measurement 	247
+DCC248	lilaLemma:101076	equus -ī m. 	horse 	Noun: 2nd Declension	Animals/Plants 	248
+DCC249	lilaLemma:100319	dūrus -a -um 	hard, tough, harsh 	Adjective: 1st and 2nd Declension	Other Senses 	249
+DCC250	lilaLemma:94739	cōgō cōgere coēgī coāctum 	"drive together; compel "	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	250
+DCC251	lilaLemma:114084	numquam 	never 	Adverb 	Time 	251
+DCC252	lilaIpoLemma:35374	prīmum 	at first, firstly 	Adverb 	Time 	252
+DCC253	lilaLemma:112796	morior morī mortuus sum 	die 	Verb: Deponent 	Life and Being 	253
+DCC254	lilaLemma:96629	carmen -inis n. 	song 	Noun: 3rd Declension	Writing/Poetry 	254
+DCC255	lilaLemma:127750	tēlum -ī n. 	missile, weapon, spear 	Noun: 2nd Declension	War and Peace 	255
+DCC256	lilaLemma:121458	ratiō -ōnis f. 	method, plan, reason 	Noun: 3rd Declension	Education/Knowledge 	256
+DCC257	lilaLemma:130533	umbra -ae f. 	shade, shadow 	Noun: 1st Declension	Vision 	257
+DCC258	lilaLemma:90089	ars artis f. 	skill 	Noun: 3rd Declension	Education/Knowledge 	258
+DCC259	lilaLemma:128477	tot 	so many 	Adverb 	Measurement 	259
+DCC260	lilaLemma:97855	dexter -tra -trum 	"right; dextera -ae f.: right hand "	Adjective: 1st and 2nd Declension	Place 	260
+DCC261	lilaLemma:124767	sīgnum -ī n. 	sign, standard, mark 	Noun: 2nd Declension	War and Peace 	261
+DCC262	lilaLemma:109739	laetus -a -um 	glad, joyful 	Adjective: 1st and 2nd Declension	Emotions 	262
+DCC263	lilaLemma:121068	quālis -e 	of what kind? what? 	Pronoun 	Pronouns/Interrogatives 	263
+DCC264	lilaLemma:110351	lēx lēgis f. 	law 	Noun: 3rd Declension	Justice 	264
+DCC265	lilaLemma:116930	perīculum -ī n. 	danger 	Noun: 2nd Declension	Violence 	265
+DCC266	lilaLemma:113387	nāscor nāscī nātus sum 	be born 	Verb: Deponent 	Life and Being 	266
+DCC267	lilaLemma:101960	exercitus -ūs m. 	army 	Noun: 4th Declension	War and Peace 	267
+DCC268	lilaLemma:116791	pereō -īre -iī -itum 	perish, be lost 	Verb: Irregular 	Violence 	268
+DCC269	lilaLemma:129820	ventus -ī m. 	wind 	Noun: 2nd Declension	Air and Fire 	269
+DCC270	lilaLemma:90638	audeō audēre ausus sum 	dare, be eager 	Verb: 2nd Conjugation	Personality Traits/Characteristics 	270
+DCC271	lilaLemma:96322	contrā 	against, opposite (adv. and prep. +acc.) 	Preposition 	Place 	271
+DCC272	lilaLemma:89692	aqua -ae f. 	water 	Noun: 1st Declension	Earth and Water 	272
+DCC273	lilaLemma:122350	rapiō rapere rapuī raptum 	seize, tear away 	Verb: 3rd Conjugation -iō	Violence 	273
+DCC274	lilaLemma:124857	simul 	at the same time 	Adverb 	Time 	274
+DCC275	lilaLemma:129020	trīstis -e 	sad, solemn, grim 	Adjective: 3rd Declension	Emotions 	275
+DCC276	lilaLemma:113061	mūnus mūneris n. 	"gift, offering; duty, obligation; (pl.) gladiatorial show "	Noun: 3rd Declension	Social Life 	276
+DCC277	lilaLemma:138707	iuvenis -is m. 	youth 	Noun: 3rd Declension	People 	277
+DCC278	lilaLemma:102868	fāma -ae f. 	rumor, fame 	Noun: 1st Declension	Speech/Oratory 	278
+DCC279	lilaLemma:87642	adsum adesse affuī 	be present 	Verb: Irregular 	Place 	279
+DCC280	lilaIpoLemma:111474	vērō 	in fact, certainly, without doubt 	Adverb 	Conjunctions/Adverbs 	280
+DCC281	lilaLemma:115903	pār paris 	equal 	Adjective: 3rd Declension	Measurement 	281
+DCC282	lilaLemma:130009	vester vestra vestrum 	your 	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	282
+DCC283	lilaLemma:103514	flūmen -inis n. 	stream, river 	Noun: 3rd Declension	Earth and Water 	283
+DCC284	lilaLemma:121318	quīcumque quaecumque quodcumque 	who-, whatever 	Pronoun 	Pronouns/Interrogatives 	284
+DCC285	lilaLemma:93581	certus -a -um 	sure, fixed 	Adjective: 1st and 2nd Declension	Measurement 	285
+DCC286	lilaLemma:103690	fortis -e 	brave 	Adjective: 3rd Declension	Personality Traits/Characteristics 	286
+DCC287	lilaLemma:118010	placeō placēre placuī placitum 	please 	Verb: 2nd Conjugation	Social Life 	287
+DCC288	lilaLemma:129966	vertō vertere vertī versum 	turn 	Verb: 3rd Conjugation -ō	Motion 	288
+DCC289	lilaLemma:124551	servō -āre 	save, watch over 	Verb: 1st Conjugation	The Household 	289
+DCC290	lilaLemma:105647	honor -ōris m. 	"honor, glory; office, post "	Noun: 3rd Declension	The City 	290
+DCC291	lilaLemma:99407	dīgnus -a -um 	worthy 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	291
+DCC292	lilaLemma:97250	cūnctus -a -um 	entire all together 	Adjective: 1st and 2nd Declension	Measurement 	292
+DCC293	lilaLemma:128357	tollō tollere sustulī sublātum 	raise up, destroy 	Verb: Irregular 	Violence 	293
+DCC294	lilaLemma:113553	negō -āre 	deny, refuse 	Verb: 1st Conjugation	Speech/Oratory 	294
+DCC295	lilaLemma:130070	vetus veteris 	old 	Adjective: 3rd Declension	Time 	295
+DCC296	lilaLemma:101354	eques equitis m. 	horseman, knight 	Noun: 3rd Declension	War and Peace 	296
+DCC297	lilaLemma:128519	trādō -dere -didī -ditum 	hand over, yield 	Verb: 3rd Conjugation -ō	Business/Money 	297
+DCC298	lilaLemma:103402	flamma -ae f. 	flame, fire 	Noun: 1st Declension	Air and Fire 	298
+DCC299	lilaLemma:111048	lūx lūcis f. 	light of day 	Noun: 3rd Declension	Air and Fire 	299
+DCC300	lilaLemma:130603	unde 	from where 	Adverb 	Place 	300
+DCC301	lilaLemma:122463	redeō -īre -iī -itum 	go back, return 	Verb: Irregular 	Motion 	301
+DCC302	lilaLemma:124353	sentiō sentīre sēnsī sēnsum 	perceive, feel, hear, see 	Verb: 4th Conjugation	Other Senses 	302
+DCC303	lilaLemma:90802	aurum -ī n. 	gold 	Noun: 2nd Declension	Business/Money 	303
+DCC304	lilaLemma:93298	cēdō cēdere cessī cessum 	"go, move; yield "	Verb: 3rd Conjugation -ō	War and Peace 	304
+DCC305	lilaIpoLemma:110471	quō 	"for which reason; to or in what place; to what end, for what purpose? "	Adverb 	Pronouns/Interrogatives 	305
+DCC306	lilaLemma:123551	saxum -ī n. 	rock, cliff, crag 	Noun: 2nd Declension	Earth and Water 	306
+DCC307	lilaLemma:131456	ve 	or (postpositive enclitic) 	Conjunction 	Conjunctions/Adverbs 	307
+DCC308	lilaLemma:87955	aetās -tātis f. 	age, time of life 	Noun: 3rd Declension	Lengths of Time 	308
+DCC309	lilaLemma:103068	fēlīx -īcis 	lucky 	Adjective: 3rd Declension	Personality Traits/Characteristics 	309
+DCC310	lilaLemma:110805	loquor loquī locūtus sum 	speak, talk 	Verb: Deponent 	Speech/Oratory 	310
+DCC311	lilaLemma:121092	quantus -a -um 	"(interr.) how great? (rel.) of what size, amount, etc. (as subst.) what amount? (rel.) which amount; quantī, at what price? (rel.) at which price "	Pronoun 	Pronouns/Interrogatives 	311
+DCC312	lilaLemma:94695	coepī coepisse coeptus 	begin 	Verb: Irregular 	Time 	312
+DCC313	lilaLemma:106127	igitur 	therefore 	Conjunction 	Conjunctions/Adverbs 	313
+DCC314	lilaLemma:109252	iūs iūris n. 	right, justice, law 	Noun: 3rd Declension	Justice 	314
+DCC315	lilaLemma:113167	mūtō -āre 	change 	Verb: 1st Conjugation	Making/Doing 	315
+DCC316	lilaLemma:108806	inveniō -venīre -vēnī -ventum 	"find; discover "	Verb: 4th Conjugation	Travel 	316
+DCC317	lilaLemma:73416	prīnceps -cipis 	"first, chief; (as subst.) leader, person in charge "	Adjective: 3rd Declension	The City 	317
+DCC318	lilaLemma:115146	ops opis f. 	assistance, resources 	Noun: 3rd Declension	Business/Money 	318
+DCC319	lilaLemma:122390	recipiō -cipere -cēpī -ceptum 	"take back, receive; sē recipere, betake oneself, go "	Verb: 3rd Conjugation -iō	Verbs of Transport 	319
+DCC320	lilaLemma:125027	sōl sōlis m. 	sun 	Noun: 3rd Declension	Air and Fire 	320
+DCC321	lilaLemma:96181	cōnsul -ulis m. 	consul 	Noun: 3rd Declension	The City 	321
+DCC322	lilaLemma:115196	orbis -is m. 	"circle; orbis terrārum: world "	Noun: 3rd Declension	Geography 	322
+DCC323	lilaLemma:129235	turba -ae f. 	crowd, uproar 	Noun: 1st Declension	The City 	323
+DCC324	lilaLemma:88060	ager agrī m. 	field 	Noun: 2nd Declension	Animals/Plants 	324
+DCC325	lilaLemma:125108	solvō solvere solvī solūtum 	release, set sail 	Verb: 2nd Conjugation	Travel 	325
+DCC326	lilaLemma:130432	vitium -ī n. 	flaw, fault, crime 	Noun: 2nd Declension	Justice 	326
+DCC327	lilaLemma:130964	vulnus -eris n. 	wound 	Noun: 3rd Declension	Violence 	327
+DCC328	lilaLemma:107259	inde 	from there, from then 	Adverb 	Place 	328
+DCC329	lilaLemma:124309	senātus -ūs m. 	senate 	Noun: 4th Declension	The City 	329
+DCC330	lilaLemma:130923	ūtor ūtī ūsus sum 	use, consume, employ (+ abl.) 	Verb: Deponent 	Making/Doing 	330
+DCC331	lilaLemma:96517	cōpia -ae f. 	"abundance; (pl.) troops "	Noun: 1st Declension	War and Peace 	331
+DCC332	lilaLemma:115170	opus operis n. 	work 	Noun: 3rd Declension	Business/Money 	332
+DCC333	lilaLemma:94916	colō colere coluī cultum 	inhabit, cultivate 	Verb: 3rd Conjugation -ō	Animals/Plants 	333
+DCC334	lilaLemma:131097	vōtum -ī n. 	"solemn promise, vow; hope "	Noun: 2nd Declension	Religion 	334
+DCC335	lilaLemma:109202	iugum -ī n. 	"yoke; ridge, chain of hills "	Noun: 2nd Declension	Animals/Plants 	335
+DCC336	lilaIpoLemma:110471	quā 	where, how 	Pronoun 	Pronouns/Interrogatives 	336
+DCC337	lilaLemma:127743	tellus tellūris f. 	earth 	Noun: 3rd Declension	Earth and Water 	337
+DCC338	lilaLemma:113981	numerus -ī m. 	number, amount 	Noun: 2nd Declension	Measurement 	338
+DCC339	lilaLemma:94738	cōgnōscō -gnōscere -gnōvī -gnitum 	learn, understand 	Verb: 3rd Conjugation -ō	Education/Knowledge 	339
+DCC340	lilaLemma:130148	victor -ōris m. 	conqueror 	Noun: 3rd Declension	War and Peace 	340
+DCC341	lilaLemma:123480	satis, sat 	enough, sufficient, sufficiently 	Adverb 	Measurement 	341
+DCC342	lilaLemma:116250	patria -ae f. 	fatherland, country 	Noun: 1st Declension	Geography 	342
+DCC343	lilaLemma:80438	seu 	"whether; seu ... seu: whether ... or → sīve "	Conjunction 	Conjunctions/Adverbs 	343
+DCC343	lilaLemma:124968	seu 	"whether; seu ... seu: whether ... or → sīve "	Conjunction 	Conjunctions/Adverbs 	343
+DCC344	lilaLemma:97835	cāsus -ūs m. 	"a fall; chance, accident "	Noun: 4th Declension	Violence 	344
+DCC345	lilaLemma:103738	frangō frangere frēgī frāctum 	break, shatter 	Verb: 3rd Conjugation -ō	Violence 	345
+DCC346	lilaLemma:94400	cīvitās -ātis f. 	citizenship, state 	Noun: 3rd Declension	The City 	346
+DCC347	lilaLemma:113840	nōscō nōscere nōvī nōtum 	learn, know 	Verb: 3rd Conjugation -ō	Education/Knowledge 	347
+DCC348	lilaLemma:119697	proelium -ī n. 	battle 	Noun: 2nd Declension	War and Peace 	348
+DCC349	lilaLemma:101432	ēripiō -ripere -ripuī -reptum 	snatch away, rescue, save 	Verb: 3rd Conjugation -iō	Verbs of Transport 	349
+DCC350	lilaLemma:113024	mundus -ī m. 	world, universe, heavens 	Noun: 2nd Declension	Earth and Water 	350
+DCC351	lilaLemma:97671	cursus -ūs m. 	course, advance 	Noun: 4th Declension	Athletics 	351
+DCC352	lilaLemma:130478	vix 	scarcely 	Adverb 	Conjunctions/Adverbs 	352
+DCC353	lilaLemma:113460	nāvis -is f. 	ship 	Noun: 3rd Declension	Travel 	353
+DCC354	lilaLemma:109669	lacrima -ae f. 	tear 	Noun: 1st Declension	Emotions 	354
+DCC355	lilaLemma:105765	hūmānus -a -um 	human 	Adjective: 1st and 2nd Declension	People 	355
+DCC356	lilaLemma:112607	mollis -e 	soft, yielding, gentle 	Adjective: 3rd Declension	Other Senses 	356
+DCC357	lilaLemma:111485	maneō manēre mānsī mānsum 	remain 	Verb: 2nd Conjugation	Travel 	357
+DCC358	lilaLemma:88106	āgmen -minis n. 	line of march 	Noun: 3rd Declension	War and Peace 	358
+DCC359	lilaLemma:124736	sīdus -eris n. 	star, constellation 	Noun: 3rd Declension	Air and Fire 	359
+DCC360	lilaLemma:104703	glōria -ae f. 	glory, fame 	Noun: 1st Declension	Social Life 	360
+DCC361	lilaLemma:99429	diū: 	for a long time 	Adverb 	Time 	361
+DCC362	lilaLemma:80949	sīve 	"whether; sīve ... sīve: whether ... or → seu "	Conjunction 	Conjunctions/Adverbs 	362
+DCC362	lilaLemma:124968	sīve 	"whether; sīve ... sīve: whether ... or → seu "	Conjunction 	Conjunctions/Adverbs 	362
+DCC363	lilaLemma:127617	tamquam 	so as, just as 	Adverb 	Conjunctions/Adverbs 	363
+DCC364	lilaLemma:103915	fuga -ae f. 	flight, route 	Noun: 1st Declension	Travel 	364
+DCC365	lilaIpoLemma:45533	tūtus -a -um 	safe, protected 	Adjective: 1st and 2nd Declension	War and Peace 	365
+DCC366	lilaLemma:90784	auris -is f. 	ear 	Noun: 3rd Declension	The Body 	366
+DCC367	lilaLemma:88330	aliēnus -a -um 	foreign, strange 	Adjective: 1st and 2nd Declension	Geography 	367
+DCC368	lilaLemma:105454	hūc 	to this place 	Adverb 	Place 	368
+DCC369	lilaLemma:127555	taceō -ēre -uī -itum 	"be silent; tacitus -a -um, silent "	Verb: 2nd Conjugation	Other Senses 	369
+DCC370	lilaLemma:110166	legiō -ōnis f. 	legion 	Noun: 3rd Declension	War and Peace 	370
+DCC371	lilaLemma:115363	ostendō ostendere ostendī ostentum 	show, hold out 	Verb: 3rd Conjugation -ō	Other Senses 	371
+DCC372	lilaLemma:124999	socius -a -um 	"friendly, allied; socius -ī m.: partner, comrade "	Adjective: 1st and 2nd Declension	Social Life 	372
+DCC372	lilaLemma:125001	socius -a -um 	"friendly, allied; socius -ī m.: partner, comrade "	Adjective: 1st and 2nd Declension	Social Life 	372
+DCC373	lilaLemma:120122	prōsum prodesse profuī 	be of use, do good, help (+ dat.) 	Verb: Irregular 	Social Life 	373
+DCC374	lilaLemma:89737	āra -ae f. 	altar 	Noun: 1st Declension	Religion 	374
+DCC375	lilaLemma:110960	lūmen luminis n. 	light 	Noun: 3rd Declension	Vision 	375
+DCC376	lilaLemma:127731	tegō tegere tēxī tēctum 	cover, conceal 	Verb: 3rd Conjugation -ō	Deception 	376
+DCC377	lilaLemma:129288	turpis -e 	"ugly, unsightly; disgraceful "	Adjective: 3rd Declension	Other Senses 	377
+DCC378	lilaLemma:130771	voluptās -ātis f. 	pleasure, enjoyment 	Noun: 3rd Declension	Social Life 	378
+DCC379	lilaLemma:87443	adhūc 	thus far, to this point 	Adverb 	Place 	379
+DCC380	lilaLemma:104869	grātia -ae f. 	favor, influence, gratitude 	Noun: 1st Declension	Social Life 	380
+DCC381	lilaLemma:107914	iniūria -ae f.: 	injustice, wrong, affront 	Noun: 1st Declension	Justice 	381
+DCC382	lilaLemma:110056	latus -eris n. 	side, flank 	Noun: 3rd Declension	The Body 	382
+DCC383	lilaLemma:100227	dulcis -e 	sweet 	Adjective: 3rd Declension	Other Senses 	383
+DCC384	lilaLemma:120753	postquam 	after 	Conjunction 	Time 	384
+DCC385	lilaLemma:102414	extrēmus -a -um 	farthest, situated at the end or tip, extreme 	Adjective: 1st and 2nd Declension	Geography 	385
+DCC386	lilaLemma:132231	tēctum -ī n. 	"roof; building, house "	Noun: 2nd Declension	The House 	386
+DCC387	lilaLemma:107798	ingenium -ī n. 	disposition, ability, talent 	Noun: 2nd Declension	Education/Knowledge 	387
+DCC388	lilaLemma:116322	pāx pācis f. 	peace 	Noun: 3rd Declension	War and Peace 	388
+DCC389	lilaLemma:92600	canō canere cecinī cantum 	sing 	Verb: 3rd Conjugation -ō	Writing/Poetry 	389
+DCC390	lilaLemma:109294	iuvō iuvāre iūvī iūtum 	"help, assist; please, delight "	Verb: 1st Conjugation	Social Life 	390
+DCC391	lilaLemma:93945	campus -ī m. 	plain, field 	Noun: 2nd Declension	Earth and Water 	391
+DCC392	lilaLemma:97555	claudō claudere clausī clausum 	close, shut 	Verb: 3rd Conjugation -ō	The House 	392
+DCC393	lilaLemma:99971	doceō -ēre -uī doctum 	teach 	Verb: 2nd Conjugation	Education/Knowledge 	393
+DCC394	lilaLemma:101865	excipiō -cipere -cēpī -ceptum 	take out 	Verb: 3rd Conjugation -iō	Verbs of Transport 	394
+DCC395	lilaLemma:94439	clārus -a -um 	clear, distinguished 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	395
+DCC396	lilaIpoLemma:19401	illīc 	"at that place, there; illinc: from that place "	Adverb 	Place 	396
+DCC397	lilaLemma:119631	procul 	at a distance 	Adverb 	Place 	397
+DCC398	lilaLemma:123063	sacer sacra sacrum 	holy, sacred 	Adjective: 1st and 2nd Declension	Religion 	398
+DCC399	lilaLemma:112289	mora -ae f. 	delay, hindrance 	Noun: 1st Declension	Time 	399
+DCC400	lilaIpoLemma:25967	longē 	far, far off 	Adverb 	Measurement 	400
+DCC401	lilaLemma:126718	super 	over (adv. and prep. +acc.) 	Adverb 	Place 	401
+DCC401	lilaLemma:126719	super 	over (adv. and prep. +acc.) 	Adverb 	Place 	401
+DCC402	lilaLemma:101465	errō -āre 	go astray, wander 	Verb: 1st Conjugation	Travel 	402
+DCC403	lilaLemma:124005	sēdēs -is f. 	seat, abode, habitation 	Noun: 3rd Declension	The House 	403
+DCC404	lilaLemma:97300	cūr 	why? 	Adverb 	Pronouns/Interrogatives 	404
+DCC405	lilaLemma:95002	coma -ae f. 	hair, tresses 	Noun: 1st Declension	The Body 	405
+DCC406	lilaLemma:88191	aiō 	"say, affirm, say yes; ut āiunt: as they say "	Verb: Irregular 	Speech/Oratory 	406
+DCC407	lilaLemma:104365	gaudeō gaudēre gāvīsus sum 	rejoice 	Verb: 2nd Conjugation	Emotions 	407
+DCC408	lilaIpoLemma:4503	beātus -a -um 	happy, blessed, prosperous, fortunate 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	408
+DCC409	lilaLemma:117445	perveniō -venīre -vēnī -ventum 	arrive, reach 	Verb: 4th Conjugation	Travel 	409
+DCC410	lilaLemma:129978	vērus -a -um 	true 	Adjective: 1st and 2nd Declension	Speech/Oratory 	410
+DCC411	lilaLemma:106965	incipiō -cipere -cēpī -ceptum 	begin 	Verb: 3rd Conjugation -iō	Time 	411
+DCC412	lilaLemma:116001	parcō parcere pepercī parsum 	spare, be sparing of (+ dat.) 	Verb: 3rd Conjugation -ō	War and Peace 	412
+DCC413	lilaLemma:130034	vestis -is f. 	garment, robe, clothing 	Noun: 3rd Declension	Life and Being 	413
+DCC414	lilaLemma:124826	similis -e 	like, similar 	Adjective: 3rd Declension	Personality Traits/Characteristics 	414
+DCC415	lilaLemma:92206	caedēs -is f. 	killing, slaughter 	Noun: 3rd Declension	Violence 	415
+DCC416	lilaLemma:115236	ōrdō -īnis m. 	order, rank 	Noun: 3rd Declension	War and Peace 	416
+DCC417	lilaLemma:115160	optō -āre 	choose, select 	Verb: 1st Conjugation	Personality Traits/Characteristics 	417
+DCC418	lilaLemma:130328	virgō -inis f. 	maiden, virgin, girl 	Noun: 3rd Declension	People 	418
+DCC419	lilaLemma:110177	legō legere lēgī lēctum 	gather, choose, read 	Verb: 3rd Conjugation -ō	Writing/Poetry 	419
+DCC420	lilaLemma:90740	aura -ae f. 	breeze 	Noun: 1st Declension	Air and Fire 	420
+DCC421	lilaLemma:106560	impetus -ūs m. 	attack 	Noun: 4th Declension	Violence 	421
+DCC422	lilaLemma:103630	fōrma -ae f. 	"shape; beauty "	Noun: 1st Declension	Other Senses 	422
+DCC423	lilaLemma:119246	praestō -stāre -stitī -stitum 	excel, exhibit 	Verb: 1st Conjugation	Other Senses 	423
+DCC424	lilaLemma:87870	aequor aequoris n. 	level surface, sea, plain 	Noun: 3rd Declension	Earth and Water 	424
+DCC425	lilaLemma:112447	misceō miscēre miscuī mixtum 	mix 	Verb: 2nd Conjugation	Earth and Water 	425
+DCC426	lilaLemma:125271	spatium -ī n. 	space 	Noun: 2nd Declension	Air and Fire 	426
+DCC427	lilaLemma:127618	tandem 	finally 	Adverb 	Conjunctions/Adverbs 	427
+DCC428	lilaLemma:107641	īnferus -a -um 	"low; īnferior: lower; īnfimus or īmus: lowest "	Adjective: 1st and 2nd Declension	Geography 	428
+DCC429	lilaLemma:112260	metuō metuere metuī 	to fear, to dread 	Verb: 3rd Conjugation -ō	Emotions 	429
+DCC430	lilaLemma:127795	temptō -āre 	try, test 	Verb: 1st Conjugation	Making/Doing 	430
+DCC431	lilaLemma:128591	trānseō -īre -iī -itum 	go across 	Verb: Irregular 	Travel 	431
+DCC432	lilaLemma:130507	ultimus -a -um 	farthest, final, last, ultimate 	Adjective: 1st and 2nd Declension	Geography 	432
+DCC433	lilaLemma:87401	addō -dere -didī -ditum 	give to 	Verb: 3rd Conjugation -ō	Social Life 	433
+DCC434	lilaLemma:104886	grātus -a -um 	"pleasant; grateful "	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	434
+DCC435	lilaLemma:110078	laudō -āre 	praise 	Verb: 1st Conjugation	Social Life 	435
+DCC436	lilaLemma:114073	nōndum 	not yet 	Adverb 	Conjunctions/Adverbs 	436
+DCC437	lilaLemma:106633	impōnō -ere -posuī -positum 	put in, put on, impose, levy upon 	Verb: 3rd Conjugation -ō	Measurement 	437
+DCC438	lilaLemma:125130	somnus -ī m. 	"sleep, slumber; (pl.) dreams "	Noun: 2nd Declension	Life and Being 	438
+DCC439	lilaLemma:87231	aciēs -ēī f. 	"edge; line of battle "	Noun: 5th Declension	War and Peace 	439
+DCC440	lilaLemma:122295	rūrsus 	back, again 	Adverb 	Place 	440
+DCC441	lilaLemma:97287	cupiō -ere -īvī -ītum 	desire 	Verb: 3rd Conjugation -iō	Love 	441
+DCC442	lilaLemma:102335	exspectō -āre 	watch, wait, expect 	Verb: 1st Conjugation	Vision 	442
+DCC443	lilaLemma:95367	compōnō -pōnere posuī positum 	build, construct, arrange 	Verb: 3rd Conjugation -ō	Making/Doing 	443
+DCC444	lilaLemma:110103	laus laudis f. 	praise, glory 	Noun: 3rd Declension	Social Life 	444
+DCC445	lilaLemma:87040	absum abesse āfuī 	be away, absent 	Verb: Irregular 	Travel 	445
+DCC446	lilaLemma:131133	ūsus -ūs m. 	use, experience 	Noun: 4th Declension	Education/Knowledge 	446
+DCC447	lilaLemma:129732	velut 	even as, just as 	Adverb 	Conjunctions/Adverbs 	447
+DCC448	lilaLemma:95024	comes comitis m./f. 	"companion, comrade; attendant, follower "	Noun: 3rd Declension	Social Life 	448
+DCC449	lilaLemma:114173	ob 	against, on account of (+acc) 	Preposition 	Place 	449
+DCC450	lilaLemma:125889	studium -ī n. 	eagerness, zeal 	Noun: 2nd Declension	Emotions 	450
+DCC451	lilaLemma:102754	facilis -e 	easy 	Adjective: 3rd Declension	Personality Traits/Characteristics 	451
+DCC452	lilaLemma:113968	nūmen -inis n. 	divine will, deity 	Noun: 3rd Declension	Religion 	452
+DCC453	lilaLemma:135852	sapiēns -ntis 	"wise; (as subst.) wise man, sage, philosopher "	Adjective: 3rd Declension	Education/Knowledge 	453
+DCC453	lilaIpoLemma:39393	sapiēns -ntis 	"wise; (as subst.) wise man, sage, philosopher "	Adjective: 3rd Declension	Education/Knowledge 	453
+DCC454	lilaLemma:126707	sūmō sūmere sūmpsī sūmptum 	take up 	Verb: 3rd Conjugation -ō	Motion 	454
+DCC455	lilaLemma:113751	nōbilis -e 	"distinguished, noble; (as subst.) a nobleman or woman "	Adjective: 3rd Declension	Personality Traits/Characteristics 	455
+DCC456	lilaLemma:121181	quīn 	"(adv.) indeed, in fact; (conjunction) so that ... not (+ subj.) "	Adverb 	Conjunctions/Adverbs 	456
+DCC457	lilaLemma:103446	fleō flēre flēvī flētum 	weep 	Verb: 2nd Conjugation	Emotions 	457
+DCC458	lilaLemma:113794	nōlō nōlle nōluī 	be unwilling 	Verb: Irregular 	Emotions 	458
+DCC459	lilaLemma:118143	plēnus -a -um 	full 	Adjective: 1st and 2nd Declension	Measurement 	459
+DCC460	lilaLemma:87680	adversus (-um) 	(adv. and prep.) facing, opposite, against, opposed (to) 	Adverb 	War and Peace 	460
+DCC460	lilaLemma:87681	adversus (-um) 	(adv. and prep.) facing, opposite, against, opposed (to) 	Adverb 	War and Peace 	460
+DCC461	lilaLemma:113577	nemus nemoris n. 	grove, forest 	Noun: 3rd Declension	Animals/Plants 	461
+DCC462	lilaLemma:92942	cārus -a -um 	dear 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	462
+DCC463	lilaLemma:98996	dēsum -esse -fuī 	be lacking 	Verb: Irregular 	Business/Money 	463
+DCC464	lilaLemma:110178	lēgātus -ī m. 	lieutenant, envoy 	Noun: 2nd Declension	War and Peace 	464
+DCC465	lilaLemma:99619	discō -ere didicī 	learn 	Verb: 3rd Conjugation -ō	Education/Knowledge 	465
+DCC466	lilaLemma:104076	furor -ōris m. 	rage, fury 	Noun: 3rd Declension	Emotions 	466
+DCC467	lilaLemma:88704	amnis -is m. 	river, torrent 	Noun: 3rd Declension	Earth and Water 	467
+DCC468	lilaLemma:89780	arbor arboris f. 	tree 	Noun: 3rd Declension	Animals/Plants 	468
+DCC469	lilaLemma:112849	mox 	soon 	Adverb 	Time 	469
+DCC470	lilaIpoLemma:110466	eō 	(adv.) there, to that place 	Adverb 	Place 	470
+DCC471	lilaLemma:94399	cīvis -is m./f. 	citizen 	Noun: 3rd Declension	The City 	471
+DCC472	lilaLemma:114620	occupō -āre 	"seize, occupy; anticipate, do a thing first (+ infin.) "	Verb: 1st Conjugation	War and Peace 	472
+DCC473	lilaLemma:125299	spectō -āre 	look at, consider 	Verb: 1st Conjugation	Vision 	473
+DCC474	lilaLemma:127889	tergum -ī n. 	"back, rear; ā tergō: from the rear "	Noun: 2nd Declension	The Body 	474
+DCC475	lilaLemma:96945	crīmen -inis n. 	verdict, accusation 	Noun: 3rd Declension	Justice 	475
+DCC476	lilaLemma:100088	dōnum -ī n. 	gift, present 	Noun: 2nd Declension	Social Life 	476
+DCC477	lilaIpoLemma:28931	nōtus -a -um 	well-known 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	477
+DCC478	lilaLemma:124917	sinus -ūs m. 	"fold of a garment; lap, bay, gulf "	Noun: 4th Declension	Earth and Water 	478
+DCC479	lilaLemma:102752	faciēs -ēī f. 	form, appearance 	Noun: 5th Declension	Vision 	479
+DCC480	lilaLemma:122881	rumpō rumpere rūpī ruptum 	break, rupture 	Verb: 3rd Conjugation -ō	Violence 	480
+DCC481	lilaLemma:111988	membrum -ī n. 	limb, member of the body 	Noun: 2nd Declension	The Body 	481
+DCC482	lilaLemma:130569	umquam 	ever 	Adverb 	Time 	482
+DCC483	lilaLemma:90262	aspiciō -ere -spēxī -spectum 	look to or at, behold 	Verb: 3rd Conjugation -iō	Vision 	483
+DCC484	lilaLemma:136134	prius or priusquam 	before 	Adverb 	Time 	484
+DCC485	lilaLemma:127783	templum -ī n. 	"consecrated ground; temple "	Noun: 2nd Declension	Religion 	485
+DCC486	lilaLemma:88724	āmittō -mittere -mīsī -missum 	let go, send away 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	486
+DCC487	lilaLemma:118550	pōscō pōscere popōscī 	"demand, claim; inquire into "	Verb: 3rd Conjugation -ō	Speech/Oratory 	487
+DCC488	lilaLemma:116738	perdō -dere -didī -ditum 	destroy 	Verb: 3rd Conjugation -ō	Violence 	488
+DCC489	lilaLemma:121355	quamvīs 	"however you like; although "	Adverb 	Conjunctions/Adverbs 	489
+DCC490	lilaLemma:127823	tener -era -erum 	tender 	Adjective: 1st and 2nd Declension	Other Senses 	490
+DCC491	lilaLemma:97523	currus -ūs m. 	chariot 	Noun: 4th Declension	Athletics 	491
+DCC492	lilaLemma:119429	precor -ārī 	pray, invoke 	Verb: Deponent 	Religion 	492
+DCC493	lilaLemma:89075	anima -ae f. 	breath, spirit 	Noun: 1st Declension	Life and Being 	493
+DCC494	lilaLemma:96293	contingō -tingere -tigī -tactum 	touch, be contiguous to 	Verb: 3rd Conjugation -ō	Place 	494
+DCC495	lilaLemma:110394	lībertās -ātis f. 	freedom 	Noun: 3rd Declension	The City 	495
+DCC496	lilaLemma:124560	servus -ī m. 	slave 	Noun: 2nd Declension	The Household 	496
+DCC497	lilaLemma:125195	soror -ōris f. 	sister 	Noun: 3rd Declension	The Household 	497
+DCC498	lilaLemma:104173	fluctus -ūs m 	flood, billow, surf 	Noun: 4th Declension	Earth and Water 	498
+DCC499	lilaLemma:121267	quīppe 	(adv.) indeed, surely 	Adverb 	Conjunctions/Adverbs 	499
+DCC500	lilaLemma:102038	exigō -igere -ēgī -āctum 	"drive out; collect "	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	500
+DCC501	lilaLemma:103084	fēmina -ae f. 	woman 	Noun: 1st Declension	People 	501
+DCC502	lilaLemma:113697	nimius -a -um 	too much, excessive 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	502
+DCC503	lilaLemma:102847	fallō fallere fefellī falsum 	deceive 	Verb: 3rd Conjugation -ō	Deception 	503
+DCC504	lilaLemma:112442	mīror mīrārī mīrātus sum 	wonder at, marvel at (+ acc.) 	Verb: Deponent 	Emotions 	504
+DCC505	lilaLemma:94447	classis -is f. 	class, division, fleet 	Noun: 3rd Declension	War and Peace 	505
+DCC506	lilaLemma:124004	sedeō sedēre sēdī sessum 	sit 	Verb: 2nd Conjugation	The House 	506
+DCC507	lilaLemma:136256	singulī -ae -a 	one each 	Adjective: 1st and 2nd Declension	Measurement 	507
+DCC508	lilaLemma:113105	mūrus -ī m. 	wall 	Noun: 2nd Declension	The House 	508
+DCC509	lilaLemma:113754	noceō nocēre nocuī 	harm 	Verb: 2nd Conjugation	Violence 	509
+DCC510	lilaLemma:121289	quoniam 	since, seeing that 	Conjunction 	Conjunctions/Adverbs 	510
+DCC511	lilaLemma:103040	fax facis f. 	torch 	Noun: 3rd Declension	Air and Fire 	511
+DCC512	lilaLemma:108367	intellegō -legere -lēxī -lēctum: 	understand 	Verb: 3rd Conjugation -ō	Education/Knowledge 	512
+DCC513	lilaLemma:109224	iungō iungere iūnxī iūnctum 	join 	Verb: 3rd Conjugation -ō	Making/Doing 	513
+DCC514	lilaLemma:88001	afferō afferre attulī allātum 	bring to 	Verb: Irregular 	Verbs of Transport 	514
+DCC515	lilaLemma:97288	cōgitō -āre 	think, reflect 	Verb: 1st Conjugation	Education/Knowledge 	515
+DCC516	lilaLemma:110503	līmen līminis n. 	threshold 	Noun: 3rd Declension	The House 	516
+DCC517	lilaLemma:120358	pūblicus -a -um 	public, belonging to the state 	Adjective: 1st and 2nd Declension	The City 	517
+DCC518	lilaLemma:121157	queror querī questus sum 	complain of, lament 	Verb: Deponent 	Emotions 	518
+DCC519	lilaLemma:101975	exemplum -ī n. 	example, sample, copy 	Noun: 2nd Declension	Speech/Oratory 	519
+DCC520	lilaLemma:119456	prex precis f. 	prayers, entreaties 	Noun: 3rd Declension	Religion 	520
+DCC521	lilaLemma:100176	dubitō -āre 	hesitate, doubt 	Verb: 1st Conjugation	Education/Knowledge 	521
+DCC522	lilaLemma:114729	odium -ī n. 	hatred 	Noun: 2nd Declension	Emotions 	522
+DCC523	lilaLemma:104012	fundō fundere fūdī fūsum 	pour, scatter 	Verb: 3rd Conjugation -ō	Earth and Water 	523
+DCC524	lilaLemma:104031	fūnus fūneris n. 	"funeral; death; dead body "	Noun: 3rd Declension	Religion 	524
+DCC525	lilaLemma:113625	nesciō -scīre 	not know, be ignorant 	Verb: 4th Conjugation	Education/Knowledge 	525
+DCC526	lilaLemma:119509	prior prius 	earlier, preceding 	Adjective: 3rd Declension	Time 	526
+DCC527	lilaLemma:130872	ūsque 	"up to; continuously "	Adverb 	Time 	527
+DCC528	lilaLemma:100177	dubius -a -um 	"doubtful; (as subst.) a doubt; sine dubiō, without a doubt, certainly "	Adjective: 1st and 2nd Declension	Deception 	528
+DCC529	lilaLemma:127805	tendō tendere tetendī tentum 	stretch, extend, direct (one’s steps or course) 	Verb: 3rd Conjugation -ō	Travel 	529
+DCC530	lilaLemma:116369	pecūnia -ae f. 	money 	Noun: 1st Declension	Business/Money 	530
+DCC531	lilaLemma:121350	quemadmodum 	in what manner, how 	Adverb 	Pronouns/Interrogatives 	531
+DCC532	lilaLemma:125240	spargō spargere sparsī sparsum 	scatter 	Verb: 3rd Conjugation -ō	Earth and Water 	532
+DCC533	lilaLemma:128764	trēs tria 	three 	Adjective: Numeral 	Measurement 	533
+DCC534	lilaLemma:127620	tangō tangere tetigī tāctum 	touch 	Verb: 3rd Conjugation -ō	Other Senses 	534
+DCC535	lilaLemma:122740	respondeō -spondēre -spondī -spōnsum 	answer 	Verb: 2nd Conjugation	Speech/Oratory 	535
+DCC536	lilaLemma:128271	timor -ōris m. 	fear 	Noun: 3rd Declension	Emotions 	536
+DCC537	lilaLemma:119934	properō -āre 	hasten, speed 	Verb: 1st Conjugation	Motion 	537
+DCC538	lilaLemma:126085	subeō -īre -iī -itum 	"go under; endure "	Verb: Irregular 	Motion 	538
+DCC539	lilaLemma:129509	valeō valēre valuī 	"be strong, excel, be valid, prevail; valē: farewell! "	Verb: 2nd Conjugation	Social Life 	539
+DCC540	lilaLemma:95677	condō -dere -didī -ditum 	"build, found; store up; hide, conceal "	Verb: 3rd Conjugation -ō	The City 	540
+DCC541	lilaLemma:113531	nefās n. indecl. 	impiety, wickedness 	Noun: Indeclinable 	Justice 	541
+DCC542	lilaLemma:121288	quondam 	formerly, once 	Adverb 	Time 	542
+DCC543	lilaLemma:90873	auxilium -ī n. 	"support, assistance; (pl.) auxiliary forces "	Noun: 2nd Declension	War and Peace 	543
+DCC544	lilaLemma:98882	dēserō -ere dēseruī dēsertum 	leave, desert, abandon 	Verb: 3rd Conjugation -ō	Motion 	544
+DCC545	lilaLemma:113946	nūdus -a -um 	naked, bare 	Adjective: 1st and 2nd Declension	The Body 	545
+DCC546	lilaLemma:90615	auctor -ōris m. 	originator, founder 	Noun: 3rd Declension	Writing/Poetry 	546
+DCC547	lilaLemma:89082	animal -ālis n. 	a living being, an animal 	Noun: 3rd Declension	Animals/Plants 	547
+DCC548	lilaLemma:98168	decus decoris n. 	"beauty, grace; ornament, glory, honor "	Noun: 3rd Declension	Personality Traits/Characteristics 	548
+DCC549	lilaLemma:123276	salūs -ūtis f. 	health, safety 	Noun: 3rd Declension	Life and Being 	549
+DCC550	lilaLemma:116202	pateō patēre patuī 	"lie open, extend; be evident or obvious "	Verb: 2nd Conjugation	Geography 	550
+DCC551	lilaLemma:122853	rogō -āre 	ask 	Verb: 1st Conjugation	Speech/Oratory 	551
+DCC552	lilaLemma:130980	uxor uxōris f. 	wife 	Noun: 3rd Declension	The Household 	552
+DCC553	lilaLemma:86873	abeō -īre -iī -itum 	go away 	Verb: Irregular 	Motion 	553
+DCC554	lilaLemma:122542	regō regere rēxī rēctum 	guide, rule 	Verb: 3rd Conjugation -ō	The City 	554
+DCC555	lilaLemma:87420	adeō 	(adv.) to such a degree, so 	Adverb 	Conjunctions/Adverbs 	555
+DCC556	lilaLemma:90671	auferō auferre abstulī ablātum 	take away 	Verb: Irregular 	Verbs of Transport 	556
+DCC557	lilaIpoLemma:110678	quantum 	(adv.) how much? how greatly? how much! how greatly! as much as 	Adverb 	Pronouns/Interrogatives 	557
+DCC558	lilaLemma:80013	senex -is m. 	"old man, elder; senior, older "	Noun: 3rd Declension	People 	558
+DCC559	lilaLemma:103845	frōns frontis f. 	"forehead, brow; front "	Noun: 3rd Declension	The Body 	559
+DCC560	lilaLemma:119992	propter 	because of (+ acc.) 	Preposition 	Non-Directional Prepositions 	560
+DCC561	lilaLemma:121678	rēgius -a -um 	kingly, royal 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	561
+DCC562	lilaLemma:97348	currō currere cucurrī cursum 	run 	Verb: 3rd Conjugation -ō	Athletics 	562
+DCC563	lilaLemma:116455	pellō pellere pepulī pulsum 	strike, beat, push, drive 	Verb: 3rd Conjugation -ō	Violence 	563
+DCC564	lilaLemma:99925	dīves dīvitis 	rich (poet. dīs, dītis) 	Adjective: 3rd Declension	Business/Money 	564
+DCC565	lilaLemma:109171	iūdicō -āre 	judge, decide 	Verb: 1st Conjugation	Justice 	565
+DCC566	lilaLemma:116374	pecus -oris n. 	cattle, sheep 	Noun: 3rd Declension	Animals/Plants 	566
+DCC567	lilaIpoLemma:110681	potēns potentis 	able, powerful 	Adjective: 3rd Declension	Personality Traits/Characteristics 	567
+DCC568	lilaLemma:123840	scrībō scrībere scrīpsī scrīptum 	write 	Verb: 3rd Conjugation -ō	Writing/Poetry 	568
+DCC569	lilaLemma:120421	pulcher -chra -chrum 	beautiful 	Adjective: 1st and 2nd Declension	Vision 	569
+DCC570	lilaLemma:126307	surgō surgere surrēxī surrēctum 	rise 	Verb: 3rd Conjugation -ō	Earth and Water 	570
+DCC571	lilaIpoLemma:110680	cēterum 	for the rest, in addition, however that may be 	Adverb 	Pronouns/Interrogatives 	571
+DCC572	lilaLemma:92848	careō -ēre -uī 	lack (+ abl.) 	Verb: 2nd Conjugation	Business/Money 	572
+DCC573	lilaLemma:100627	efficiō -ficere -fēcī -fectum 	"bring about, complete; render (+ ut + subj.) "	Verb: 3rd Conjugation -iō	Making/Doing 	573
+DCC574	lilaLemma:114887	ōlim 	formerly, at that time 	Adverb 	Time 	574
+DCC575	lilaLemma:124494	sermō -ōnis m. 	conversation, discourse 	Noun: 3rd Declension	Speech/Oratory 	575
+DCC576	lilaLemma:101981	exerceō -ercēre -ercuī -ercitum 	train, exercise, carry on 	Verb: 2nd Conjugation	Athletics 	576
+DCC577	lilaLemma:104801	gradus -ūs m. 	"step, pace; grade, rank "	Noun: 4th Declension	War and Peace 	577
+DCC578	lilaLemma:88103	agitō -āre 	drive 	Verb: 1st Conjugation	Verbs of Compelling/Directing 	578
+DCC579	lilaLemma:103683	forte 	by chance 	Adverb 	Religion 	579
+DCC580	lilaLemma:105645	honestus -a -um 	honorable 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	580
+DCC581	lilaLemma:112802	moror morārī morātus sum 	delay 	Verb: Deponent 	Time 	581
+DCC582	lilaLemma:119215	praesidium -ī n. 	garrison, protection 	Noun: 2nd Declension	War and Peace 	582
+DCC583	lilaLemma:125138	sonō sonāre sonuī sonitum 	sound, resound 	Verb: 1st Conjugation	Other Senses 	583
+DCC584	lilaLemma:118687	praebeō -ēre -uī -itum 	furnish, supply, render 	Verb: 2nd Conjugation	Verbs of Transport 	584
+DCC585	lilaLemma:121675	regiō -ōnis f. 	boundary, region 	Noun: 3rd Declension	Geography 	585
+DCC586	lilaLemma:124342	sententia -ae f. 	opinion, judgment 	Noun: 1st Declension	Education/Knowledge 	586
+DCC587	lilaLemma:87184	ācer ācris ācre 	sharp, piercing 	Adjective: 3rd Declension	Other Senses 	587
+DCC588	lilaLemma:127064	suprā 	above, beyond (adv. and prep. +acc.) 	Preposition 	Place 	588
+DCC588	lilaLemma:127065	suprā 	above, beyond (adv. and prep. +acc.) 	Preposition 	Place 	588
+DCC589	lilaLemma:91883	brevis -e 	short, shallow, brief 	Adjective: 3rd Declension	Measurement 	589
+DCC590	lilaIpoLemma:6520	citus -a -um 	"swift; citō swiftly "	Adjective: 1st and 2nd Declension	Time 	590
+DCC591	lilaLemma:96624	cornu -ūs n. 	horn 	Noun: 4th Declension	Animals/Plants 	591
+DCC592	lilaLemma:107816	ingrātus -a -um: 	unpleasant, disagreeable 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	592
+DCC593	lilaLemma:113035	moenia -ium n. pl. 	walls, fortifications 	Noun: 3rd Declension	The City 	593
+DCC594	lilaLemma:130236	vinculum -ī n. 	bond, fetter, tie 	Noun: 2nd Declension	War and Peace 	594
+DCC595	lilaLemma:87421	adeō -īre -iī -itum 	go to 	Verb: Irregular 	Motion 	595
+DCC596	lilaLemma:93624	cēterus -a -um 	the other, the others, the rest 	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	596
+DCC597	lilaLemma:101980	exeō -īre -iī -itum 	go forth 	Verb: Irregular 	Motion 	597
+DCC598	lilaLemma:111408	mālō mālle māluī 	prefer 	Verb: Irregular 	Emotions 	598
+DCC599	lilaLemma:125279	speciēs -ēī f. 	aspect, appearance 	Noun: 5th Declension	Vision 	599
+DCC600	lilaLemma:130511	ultrā 	beyond, further (adv. and prep. + acc.) 	Preposition 	Place 	600
+DCC600	lilaLemma:130512	ultrā 	beyond, further (adv. and prep. + acc.) 	Preposition 	Place 	600
+DCC601	lilaIpoLemma:6308	certē 	certainly, surely 	Adverb 	Measurement 	601
+DCC602	lilaLemma:106539	imperō -āre 	command, control 	Verb: 1st Conjugation	War and Peace 	602
+DCC603	lilaIpoLemma:26555	male 	(adv.) badly 	Adverb 	Personality Traits/Characteristics 	603
+DCC604	lilaLemma:119765	prohibeō -ēre -uī -itum 	restrain, keep away 	Verb: 2nd Conjugation	Verbs of Compelling/Directing 	604
+DCC605	lilaLemma:94412	clāmor -ōris m. 	outcry, shout 	Noun: 3rd Declension	Speech/Oratory 	605
+DCC606	lilaLemma:100087	dōnō -āre 	present with a gift (+ acc. of person and abl. of thing) 	Verb: 1st Conjugation	Social Life 	606
+DCC607	lilaLemma:114811	officium -ī n. 	service, duty 	Noun: 2nd Declension	The City 	607
+DCC608	lilaLemma:95164	committō -mittere -mīsī -missum 	"join, entrust to (+ dat.); perform, do "	Verb: 3rd Conjugation -ō	Social Life 	608
+DCC609	lilaLemma:96925	crēscō crēscere crēvī crētum 	grow, increase 	Verb: 3rd Conjugation -ō	Animals/Plants 	609
+DCC610	lilaLemma:87765	aequus -a -um 	equal 	Adjective: 1st and 2nd Declension	Justice 	610
+DCC611	lilaLemma:104164	factum -ī n. 	deed, accomplishment 	Noun: 2nd Declension	Making/Doing 	611
+DCC612	lilaLemma:92207	caedō caedere cecīdī caesum 	strike, kill, cut down 	Verb: 3rd Conjugation -ō	Violence 	612
+DCC613	lilaLemma:102057	exīstimō -āre 	think, believe 	Verb: 1st Conjugation	Education/Knowledge 	613
+DCC614	lilaLemma:87084	accēdō -cēdere -cessī -cessum 	approach 	Verb: 3rd Conjugation -ō	Motion 	614
+DCC615	lilaLemma:96226	contemnō -temnere -tempsī -temptum 	despise, scorn, disdain 	Verb: 3rd Conjugation -ō	Emotions 	615
+DCC616	lilaLemma:120366	pudor pudōris m. 	sense of shame, modesty, propriety 	Noun: 3rd Declension	Personality Traits/Characteristics 	616
+DCC617	lilaLemma:87976	antīquus -a -um 	ancient, old-time, former 	Adjective: 1st and 2nd Declension	Lengths of Time 	617
+DCC618	lilaLemma:89900	ārdeō ārdēre ārsī ārsum 	"blaze, glow; be eager "	Verb: 2nd Conjugation	Air and Fire 	618
+DCC619	lilaLemma:106053	ibi 	there 	Adverb 	Place 	619
+DCC620	lilaLemma:120189	prōvincia -ae f. 	"province; official duty "	Noun: 1st Declension	The City 	620
+DCC621	lilaLemma:121084	quandō 	"when?; since; sī quandō: if ever "	Adverb 	Pronouns/Interrogatives 	621
+DCC622	lilaLemma:97396	custōs custōdis m. 	guardian 	Noun: 3rd Declension	The Household 	622
+DCC623	lilaLemma:126965	supersum -esse -fuī 	"remain, survive; be superfluous (to) "	Verb: Irregular 	Place 	623
+DCC624	lilaLemma:98910	dēsinō -sinere -siī -situm 	leave off, cease 	Verb: 3rd Conjugation -ō	Motion 	624
+DCC625	lilaLemma:103178	fessus -a -um 	weary, tired 	Adjective: 1st and 2nd Declension	Life and Being 	625
+DCC626	lilaLemma:118801	praeda -ae f. 	booty, prey 	Noun: 1st Declension	War and Peace 	626
+DCC627	lilaLemma:112000	memoria -ae f. 	recollection, memory 	Noun: 1st Declension	Education/Knowledge 	627
+DCC628	lilaLemma:99932	dīvidō -ere dīvīsī dīvīsum 	divide, separate 	Verb: 3rd Conjugation -ō	Making/Doing 	628
+DCC629	lilaLemma:119455	pretium -ī n. 	"price, worth, reward; pretium operae: a reward for trouble "	Noun: 2nd Declension	Business/Money 	629
+DCC630	lilaLemma:118429	pontus -ī m. 	the open sea, the deep 	Noun: 2nd Declension	Earth and Water 	630
+DCC631	lilaLemma:129584	varius -a -um 	changing, varied, various 	Adjective: 1st and 2nd Declension	Other Senses 	631
+DCC632	lilaLemma:129693	vehō vehere vēxī vectum 	"carry; vehor vehī vectus sum: travel, ride "	Verb: 3rd Conjugation -ō	Travel 	632
+DCC633	lilaIpoLemma:16178	falsus -a -um 	deceptive, false 	Adjective: 1st and 2nd Declension	Deception 	633
+DCC634	lilaLemma:113672	niger nigra nigrum 	black 	Adjective: 1st and 2nd Declension	Vision 	634
+DCC635	lilaLemma:115116	oppidum -ī n. 	town 	Noun: 2nd Declension	The City 	635
+DCC636	lilaLemma:118410	pondus ponderis n. 	weight 	Noun: 3rd Declension	Measurement 	636
+DCC637	lilaLemma:90169	arvum -ī n. 	ploughed land, field 	Noun: 2nd Declension	Animals/Plants 	637
+DCC638	lilaLemma:90170	arx arcis f. 	"citadel, castle; summit "	Noun: 3rd Declension	The City 	638
+DCC639	lilaLemma:125204	sors sortis f. 	"lot, fate, destiny; oracle "	Noun: 3rd Declension	Religion 	639
+DCC640	lilaLemma:130275	vīnum -ī n. 	vine, wine 	Noun: 2nd Declension	Animals/Plants 	640
+DCC641	lilaIpoLemma:13031	dīversus -a -um 	different, diverse 	Adjective: 1st and 2nd Declension	Other Senses 	641
+DCC642	lilaLemma:115264	orior orīrī ortus sum 	arise, begin 	Verb: Deponent 	Time 	642
+DCC643	lilaLemma:100515	ecce 	behold! 	Adverb 	Vision 	643
+DCC644	lilaLemma:121083	quamquam 	however, although 	Conjunction 	Conjunctions/Adverbs 	644
+DCC645	lilaLemma:95728	cōnferō cōnferre contulī collātum 	collect, bring to 	Verb: Irregular 	Verbs of Transport 	645
+DCC646	lilaLemma:102757	facinus facinoris n. 	deed, crime 	Noun: 3rd Declension	Justice 	646
+DCC647	lilaLemma:122776	retineō -tinēre -tinuī -tentum 	hold back, keep 	Verb: 2nd Conjugation	Verbs of Compelling/Directing 	647
+DCC648	lilaLemma:125334	spērō -āre 	to hope 	Verb: 1st Conjugation	Emotions 	648
+DCC649	lilaLemma:118610	plēbs plēbis f. 	the common people 	Noun: 3rd Declension	The City 	649
+DCC650	lilaLemma:120407	pūgna -ae f. 	"fist-fight; battle "	Noun: 1st Declension	Violence 	650
+DCC651	lilaLemma:122660	repetō -petere -petīvī -petītum 	"demand, exact; revisit; call to mind, recollect; repeat "	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	651
+DCC652	lilaLemma:96146	cōnstituō -stituere -stituī -stitūtum 	establish, put together 	Verb: 3rd Conjugation -ō	Making/Doing 	652
+DCC653	lilaLemma:98236	dēfendō -fendere -fendī -fēnsum 	defend, ward off 	Verb: 3rd Conjugation -ō	War and Peace 	653
+DCC654	lilaLemma:111312	marītus -ī m. 	husband 	Noun: 2nd Declension	The Household 	654
+DCC655	lilaLemma:93546	cernō cernere crēvī crētum 	discern, separate 	Verb: 3rd Conjugation -ō	Education/Knowledge 	655
+DCC656	lilaLemma:126757	superbus -a -um 	overbearing, proud, haughty 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	656
+DCC657	lilaIpoLemma:1008	adversus -a -um 	"facing, opposed; unfavorable "	Adjective: 1st and 2nd Declension	War and Peace 	657
+DCC658	lilaLemma:112776	morbus -ī m. 	sickness, disease 	Noun: 2nd Declension	The Body 	658
+DCC659	lilaIpoLemma:39324	sānctus -a -um 	sacred, inviolable 	Adjective: 1st and 2nd Declension	Religion 	659
+DCC660	lilaLemma:97171	commūnis -e 	common, general 	Adjective: 3rd Declension	The City 	660
+DCC661	lilaLemma:98210	dēdūcō -dūcere -dūxī -ductum 	launch, lead away 	Verb: 3rd Conjugation -ō	Travel 	661
+DCC662	lilaLemma:122104	rīpa -ae f. 	bank of a river 	Noun: 1st Declension	Earth and Water 	662
+DCC663	lilaLemma:95456	concēdō -cēdere -cessī -cessum 	yield, withdraw 	Verb: 3rd Conjugation -ō	War and Peace 	663
+DCC664	lilaLemma:105663	hōra -ae f. 	hour 	Noun: 1st Declension	Lengths of Time 	664
+DCC665	lilaLemma:130065	vetō -āre vetuī vetītum 	forbid 	Verb: 1st Conjugation	Verbs of Compelling/Directing 	665
+DCC666	lilaLemma:94751	cohors cohortis f. 	cohort, band, troop 	Noun: 3rd Declension	War and Peace 	666
+DCC667	lilaLemma:104594	gīgnō gīgnere genuī genitum 	beget, bear, bring forth 	Verb: 3rd Conjugation -ō	Life and Being 	667
+DCC668	lilaLemma:126911	superō -āre 	overcome, surpass, defeat 	Verb: 1st Conjugation	War and Peace 	668
+DCC669	lilaLemma:111257	maestus -a -um 	"sad, sorrowful; depressing "	Adjective: 1st and 2nd Declension	Emotions 	669
+DCC670	lilaLemma:111991	meminī meminisse 	remember, recollect 	Verb: Irregular 	Education/Knowledge 	670
+DCC671	lilaLemma:106607	impleō -ēre -plēvī -plētum 	fill in, fill up 	Verb: 2nd Conjugation	Earth and Water 	671
+DCC672	lilaLemma:111317	māgnitūdō -inis f. 	greatness, size 	Noun: 3rd Declension	Measurement 	672
+DCC673	lilaLemma:129511	vacuus -a -um 	empty 	Adjective: 1st and 2nd Declension	Measurement 	673
+DCC674	lilaLemma:129502	vagus -a -um 	wandering, shifting 	Adjective: 1st and 2nd Declension	Travel 	674
+DCC675	lilaLemma:130957	vulgus -ī n. and m. 	the common people 	Noun: 2nd Declension	The City 	675
+DCC676	lilaLemma:98257	deficiō -ficere -fēcī -fectum 	"fail, give out; revolt from "	Verb: 3rd Conjugation -iō	War and Peace 	676
+DCC677	lilaLemma:114623	occurrō -currere -cucurrī -cursum 	"run to meet; come into one’s mind "	Verb: 3rd Conjugation -ō	Education/Knowledge 	677
+DCC678	lilaLemma:125614	statuō -ere -uī -ūtum 	set up, determine 	Verb: 3rd Conjugation -ō	Justice 	678
+DCC679	lilaLemma:106085	ideō 	for this reason 	Adverb 	Conjunctions/Adverbs 	679
+DCC680	lilaLemma:119037	praemium -ī n. 	bounty, reward 	Noun: 2nd Declension	Business/Money 	680
+DCC681	lilaLemma:120700	praetereā 	besides, moreover 	Adverb 	Conjunctions/Adverbs 	681
+DCC682	lilaLemma:127957	tertius -a -um 	third 	Adjective: 1st and 2nd Declension	Measurement 	682
+DCC683	lilaLemma:127036	supplicium -ī n. 	punishment, penalty 	Noun: 2nd Declension	Justice 	683
+DCC684	lilaLemma:129625	vātēs -is m. 	poet, bard 	Noun: 3rd Declension	Writing/Poetry 	684
+DCC685	lilaLemma:90464	astrum -ī n. 	"star; constellation "	Noun: 2nd Declension	Air and Fire 	685
+DCC686	lilaLemma:130636	undique 	from all sides, on all sides 	Adverb 	Place 	686
+DCC687	lilaLemma:92575	canis -is m./f. 	dog 	Noun: 3rd Declension	Animals/Plants 	687
+DCC688	lilaLemma:100577	ēdō ēdere ēdidī ēditum 	put forth, state, explain 	Verb: 3rd Conjugation -ō	Speech/Oratory 	688
+DCC689	lilaLemma:102985	fateor fatērī fassus sum 	"admit, confess; profess, declare; assent, say yes "	Verb: Deponent 	Justice 	689
+DCC690	lilaLemma:89461	amīcitia -ae f. 	friendship 	Noun: 1st Declension	Social Life 	690
+DCC691	lilaLemma:90754	aureus -a -um 	"golden; splendid "	Adjective: 1st and 2nd Declension	Business/Money 	691
+DCC692	lilaLemma:92556	candidus -a -um 	white, fair 	Adjective: 1st and 2nd Declension	Vision 	692
+DCC693	lilaLemma:108499	interim 	meanwhile 	Adverb 	Time 	693
+DCC694	lilaLemma:103886	frūstrā 	in vain 	Adverb 	Conjunctions/Adverbs 	694
+DCC695	lilaLemma:111102	lateō latēre latuī 	lie hidden, be hidden 	Verb: 2nd Conjugation	Deception 	695
+DCC696	lilaLemma:115330	os ossis n. 	bone 	Noun: 3rd Declension	The Body 	696
+DCC697	lilaLemma:123986	sēcūrus -a -um 	"free from care, tranquil; careless "	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	697
+DCC698	lilaLemma:96424	conveniō -venīre -vēnī -ventum 	"assemble, meet; agree "	Verb: 4th Conjugation	Social Life 	698
+DCC699	lilaLemma:108471	interficiō -ficere -fēcī -fectum 	kill 	Verb: 3rd Conjugation -iō	Violence 	699
+DCC700	lilaLemma:89580	appellō -pellāre 	call, address, name 	Verb: 1st Conjugation	Social Life 	700
+DCC701	lilaLemma:100037	dolus -ī m. 	artifice, device, trick 	Noun: 2nd Declension	Deception 	701
+DCC702	lilaLemma:117085	permittō -mittere -mīsī -missum 	yield, allow, permit 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	702
+DCC703	lilaLemma:125406	spīritus -ūs m. 	breath, life, spirit 	Noun: 4th Declension	Life and Being 	703
+DCC704	lilaLemma:108726	intrā 	within (+ acc.) 	Preposition 	Place 	704
+DCC705	lilaLemma:127920	terreō terrēre terruī territum 	terrify, frighten 	Verb: 2nd Conjugation	Emotions 	705
+DCC706	lilaLemma:103593	fōns fontis m. 	spring, fountain 	Noun: 3rd Declension	Earth and Water 	706
+DCC707	lilaLemma:108842	invidia -ae f. 	envy, jealousy, hatred 	Noun: 1st Declension	Emotions 	707
+DCC708	lilaLemma:120417	pugnō -āre 	fight 	Verb: 1st Conjugation	Violence 	708
+DCC709	lilaLemma:90673	augeō augēre auxī auctum 	increase 	Verb: 2nd Conjugation	Making/Doing 	709
+DCC710	lilaLemma:110668	littera -ae f. 	letter, (pl.) literature 	Noun: 1st Declension	Writing/Poetry 	710
+DCC711	lilaLemma:112665	moneō monēre monuī monitum 	warn, advise 	Verb: 2nd Conjugation	Speech/Oratory 	711
+DCC712	lilaLemma:99899	dīvitiae -ārum f. pl. 	riches, wealth 	Noun: 1st Declension	Business/Money 	712
+DCC713	lilaLemma:102164	experior -perīrī -pertus sum 	try thoroughly, test, experience 	Verb: Deponent 	Education/Knowledge 	713
+DCC714	lilaLemma:83429	superī -ōrum m. pl. 	those above, i.e. the gods 	Noun: 2nd Declension	Religion 	714
+DCC715	lilaLemma:115422	ōtium -ī n. 	leisure 	Noun: 2nd Declension	Social Life 	715
+DCC716	lilaLemma:130026	vestīgium -ī n. 	footstep, footprint, track 	Noun: 2nd Declension	Travel 	716
+DCC717	lilaLemma:124907	sinō sinere sīvī situm 	allow, let go 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	717
+DCC718	lilaLemma:98057	decet decēre decuīt 	it is right, proper, fitting (+ acc. + infin.) 	Verb: Impersonal 	Personality Traits/Characteristics 	718
+DCC719	lilaLemma:100687	effundō -fundere -fūdī -fūsum 	pour out 	Verb: 3rd Conjugation -ō	Earth and Water 	719
+DCC720	lilaLemma:119845	prōmittō -mittere -mīsī -missum 	send forth, offer 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	720
+DCC721	lilaLemma:103319	fingō fingere fīnxī fīctum 	"shape; invent "	Verb: 3rd Conjugation -ō	Making/Doing 	721
+DCC722	lilaLemma:122736	respicio -ere -spēxī -spectum 	look back, regard, consider 	Verb: 3rd Conjugation -iō	Vision 	722
+DCC723	lilaLemma:106515	imperātor -ōris m. 	commander 	Noun: 3rd Declension	War and Peace 	723
+DCC724	lilaLemma:129468	vacō vacāre 	be empty, open, unoccupied 	Verb: 1st Conjugation	Measurement 	724
+DCC725	lilaLemma:94940	color -ōris m. 	color 	Noun: 3rd Declension	Vision 	725
+DCC726	lilaLemma:99589	discēdō -ere -cessī -cessum 	go away, depart 	Verb: 3rd Conjugation -ō	Travel 	726
+DCC727	lilaLemma:104369	gaudium -ī n. 	delight, joy, pleasure 	Noun: 2nd Declension	Emotions 	727
+DCC728	lilaLemma:92203	caecus -a -um 	"blind, unseeing; dark, obscure "	Adjective: 1st and 2nd Declension	Vision 	728
+DCC729	lilaLemma:110402	libet libēre libuit or libitum est 	it is pleasing (+ dat. + infin.) 	Verb: Impersonal 	Social Life 	729
+DCC730	lilaLemma:93446	centum 	one hundred 	Adjective: Numeral 	Measurement 	730
+DCC731	lilaLemma:96151	cōnstō -stāre -stitī 	"agree; constat, it is established that (+ acc. and infin.) "	Verb: 1st Conjugation	Speech/Oratory 	731
+DCC732	lilaLemma:110562	lingua -ae f. 	"tongue; language "	Noun: 1st Declension	The Body 	732
+DCC733	lilaLemma:112987	multitūdō -inis f. 	multitude, number 	Noun: 3rd Declension	Measurement 	733
+DCC734	lilaLemma:87961	aeternus -a -um 	everlasting, eternal 	Adjective: 1st and 2nd Declension	Lengths of Time 	734
+DCC735	lilaLemma:94032	circā 	around (adv. and prep. +acc.) 	Preposition 	Place 	735
+DCC736	lilaLemma:115179	ōrātiō -ōnis f. 	speech, address 	Noun: 3rd Declension	Speech/Oratory 	736
+DCC737	lilaLemma:118652	potestās -ātis f. 	power 	Noun: 3rd Declension	The City 	737
+DCC738	lilaLemma:127658	tardus -a -um 	slow, sluggish, lingering 	Adjective: 1st and 2nd Declension	Time 	738
+DCC739	lilaLemma:103600	for fārī fātus sum 	report, say 	Verb: Deponent 	Speech/Oratory 	739
+DCC740	lilaLemma:105777	humus -ī f. 	"ground; humī: on the ground "	Noun: 2nd Declension	Earth and Water 	740
+DCC741	lilaLemma:127994	testis -is m. 	witness 	Noun: 3rd Declension	Justice 	741
+DCC742	lilaLemma:107649	īnferō īnferre intulī illātum 	"bring upon, against; bellum īnferre: make war on "	Verb: Irregular 	War and Peace 	742
+DCC743	lilaLemma:97341	cūrō -āre 	watch over, look after, care for (+ acc.) 	Verb: 1st Conjugation	Love 	743
+DCC744	lilaLemma:87918	aes aeris n. 	copper, bronze 	Noun: 3rd Declension	Business/Money 	744
+DCC745	lilaLemma:93322	celer -is -e 	swift 	Adjective: 3rd Declension	Time 	745
+DCC746	lilaLemma:119582	prōcēdō -cēdere -cessī -cessum 	go forth, advance 	Verb: 3rd Conjugation -ō	Motion 	746
+DCC747	lilaLemma:112039	mēnsa -ae f. 	table 	Noun: 1st Declension	The House 	747
+DCC748	lilaLemma:117996	pius -a -um 	dutiful, devoted, just, pious 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	748
+DCC749	lilaLemma:109170	iūdicium -ī n. 	judgment, decision, trial 	Noun: 2nd Declension	Justice 	749
+DCC750	lilaLemma:130149	victōria -ae f. 	victory 	Noun: 1st Declension	War and Peace 	750
+DCC751	lilaLemma:97897	damnō -āre 	condemn 	Verb: 1st Conjugation	Justice 	751
+DCC752	lilaLemma:121444	rārus -a -um 	"wide apart, loose, thin; rare, seldom "	Adjective: 1st and 2nd Declension	Measurement 	752
+DCC753	lilaLemma:127774	tempestas -tātis f. 	"period of time, season; bad weather, storm "	Noun: 3rd Declension	Lengths of Time 	753
+DCC754	lilaLemma:106319	imāgō -inis f. 	image, form, figure 	Noun: 3rd Declension	Vision 	754
+DCC755	lilaLemma:115286	ōrō -āre 	pray 	Verb: 1st Conjugation	Religion 	755
+DCC756	lilaLemma:119286	praeter 	"by, along, past; besides, except (+ acc.) "	Preposition 	Place 	756
+DCC757	lilaLemma:96186	cōnsulō -sulere -suluī -sultum 	"consult, plan (+ acc.); consider the interests of (+dat) "	Verb: 3rd Conjugation -ō	The City 	757
+DCC758	lilaLemma:109138	iterum 	again 	Adverb 	Time 	758
+DCC759	lilaLemma:118508	porta -ae f. 	gate 	Noun: 1st Declension	The City 	759
+DCC760	lilaLemma:108661	intersum -esse -fuī 	"to be between; take part in, attend (+dat.); interest, it is in the interest of (+ gen.) "	Verb: Irregular 	Place 	760
+DCC761	lilaLemma:110407	libīdō -inis f. 	passion, lust 	Noun: 3rd Declension	Love 	761
+DCC762	lilaLemma:127147	sustineō sustinēre sustinuī sustentum 	hold up, sustain 	Verb: 2nd Conjugation	Social Life 	762
+DCC763	lilaLemma:91094	aliquandō 	at some time, at length 	Adverb 	Time 	763
+DCC764	lilaLemma:63256	māiōrēs māiōrum m. 	ancestors 	Noun: 3rd Declension	The Household 	764
+DCC765	lilaLemma:122659	reperiō -perīre -pperī -pertum 	find, find out 	Verb: 4th Conjugation	Education/Knowledge 	765
+DCC766	lilaLemma:108752	intrō -āre 	enter 	Verb: 1st Conjugation	Motion 	766
+DCC767	lilaLemma:117794	pietās -tātis f. 	sense of duty, devotion, esp. between parents and children 	Noun: 3rd Declension	The Household 	767
+DCC768	lilaLemma:91327	barbarus -ī m. 	foreigner, barbarian 	Noun: 2nd Declension	War and Peace 	768
+DCC769	lilaLemma:97183	culpa -ae f. 	guilt, fault, blame 	Noun: 1st Declension	Justice 	769
+DCC770	lilaLemma:109268	iūstus -a -um 	right, just, fair 	Adjective: 1st and 2nd Declension	Justice 	770
+DCC771	lilaLemma:100084	dōnec 	until 	Conjunction 	Time 	771
+DCC772	lilaLemma:103519	fluō fluere fluxī fluxum 	flow 	Verb: 3rd Conjugation -ō	Earth and Water 	772
+DCC773	lilaLemma:113513	necesse (indecl. adj.) 	necessary 	Adjective: Indeclinable 	Business/Money 	773
+DCC774	lilaLemma:122641	reor rērī rātus sum 	think, imagine, suppose, deem 	Verb: Deponent 	Education/Knowledge 	774
+DCC775	lilaLemma:127807	tenebrae -brārum f. pl. 	darkness, the shadows 	Noun: 1st Declension	Vision 	775
+DCC776	lilaLemma:123105	saeculum -ī n. 	generation, age, century 	Noun: 2nd Declension	Lengths of Time 	776
+DCC777	lilaLemma:99509	dīmittō -mittere -mīsī -missum 	send away 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	777
+DCC778	lilaLemma:110432	licet 	even though 	Conjunction 	Justice 	778
+DCC779	lilaLemma:94017	cinis cineris m./f. 	ashes, embers 	Noun: 3rd Declension	Air and Fire 	779
+DCC780	lilaLemma:96065	cōnsistō -sistere -stitī 	"take position; consist in, be composed of "	Verb: 3rd Conjugation -ō	Speech/Oratory 	780
+DCC781	lilaLemma:121510	recēns -ntis 	fresh, new 	Adjective: 3rd Declension	Time 	781
+DCC782	lilaLemma:28966	aliter 	otherwise, differently 	Adverb 	Conjunctions/Adverbs 	782
+DCC783	lilaLemma:109718	laedō laedere laesī laesum 	injure by striking, hurt 	Verb: 3rd Conjugation -ō	Violence 	783
+DCC784	lilaLemma:119564	probō -āre 	"approve, prove; convince one (dat.) of a thing (acc.) "	Verb: 1st Conjugation	Verbs of Compelling/Directing 	784
+DCC785	lilaLemma:100021	doleō -ēre doluī 	feel pain or grief, grieve 	Verb: 2nd Conjugation	Emotions 	785
+DCC786	lilaLemma:121343	quārē 	how? why? 	Adverb 	Pronouns/Interrogatives 	786
+DCC787	lilaLemma:90912	antequam 	before 	Conjunction 	Time 	787
+DCC788	lilaLemma:121488	reliquus -a -um 	remaining, rest 	Adjective: 1st and 2nd Declension	Measurement 	788
+DCC789	lilaLemma:124090	semel 	once 	Adverb 	Time 	789
+DCC790	lilaLemma:114724	ōdī ōdisse 	hate 	Verb: Irregular 	Emotions 	790
+DCC791	lilaLemma:138711	sīcut 	just as 	Adverb 	Conjunctions/Adverbs 	791
+DCC792	lilaLemma:116332	peccō -āre 	commit a wrong, injure 	Verb: 1st Conjugation	Justice 	792
+DCC793	lilaLemma:124355	sēnsus -ūs m. 	feeling, emotion, sense 	Noun: 4th Declension	Emotions 	793
+DCC794	lilaLemma:102045	exsilium -ī n. 	exile, banishment 	Noun: 2nd Declension	Travel 	794
+DCC795	lilaLemma:96553	cor cordis n. 	"heart; cordī est, it is pleasing to (+ dat.) "	Noun: 3rd Declension	The Body 	795
+DCC796	lilaLemma:98611	dēnique 	finally 	Adverb 	Time 	796
+DCC797	lilaLemma:123349	sapientia -ae f. 	wisdom 	Noun: 1st Declension	Education/Knowledge 	797
+DCC798	lilaLemma:125596	statim 	immediately 	Adverb 	Time 	798
+DCC799	lilaLemma:87112	accidō -cidere -cidī 	"fall; happen "	Verb: 3rd Conjugation -ō	Motion 	799
+DCC800	lilaLemma:98047	dēcernō -cernere -crēvī -crētum 	determine, decide 	Verb: 3rd Conjugation -ō	Education/Knowledge 	800
+DCC801	lilaLemma:114585	occīdō -cīdere -cīdī -cīsum 	kill, cut down 	Verb: 3rd Conjugation -ō	Violence 	801
+DCC802	lilaLemma:98862	dēscendō -scendere -scendī -scēnsum 	climb down, descend 	Verb: 3rd Conjugation -ō	Travel 	802
+DCC803	lilaLemma:105460	hiems hiemis f. 	winter 	Noun: 3rd Declension	Lengths of Time 	803
+DCC804	lilaLemma:96292	contineō -tinēre -tinuī -tentum 	contain, restrain 	Verb: 2nd Conjugation	Verbs of Compelling/Directing 	804
+DCC805	lilaLemma:98252	dēferō -ferre -tulī -lātum 	carry away, report 	Verb: Irregular 	Verbs of Transport 	805
+DCC806	lilaLemma:115098	oportet -ēre -uit 	it is proper, right (+ acc. + infin.) 	Verb: Impersonal 	Social Life 	806
+DCC807	lilaLemma:128794	tribūnus -ī m. 	tribune, title of various Roman officials, as mīlitum, plēbis, aerāriī 	Noun: 2nd Declension	The City 	807
+DCC808	lilaLemma:91797	bōs bovis m. 	"ox; gen. pl. boum "	Noun: 3rd Declension	Animals/Plants 	808
+DCC809	lilaLemma:108954	īrāscor īrāscī īrātus sum 	"grow angry; īrātus -a -um: angry "	Verb: Deponent 	Emotions 	809
+DCC810	lilaLemma:87761	aeger aegra aegrum 	sick 	Adjective: 1st and 2nd Declension	Life and Being 	810
+DCC811	lilaLemma:103701	forum -ī n. 	market-place, forum 	Noun: 2nd Declension	The City 	811
+DCC812	lilaLemma:114795	offerō offerre obtulī oblātum 	present, offer, expose 	Verb: Irregular 	Verbs of Transport 	812
+DCC813	lilaLemma:122823	revocō -āre 	call back, recall 	Verb: 1st Conjugation	Social Life 	813
+DCC814	lilaLemma:94012	cingō cingere cīnxī cīnctum 	encircle, surround, gird 	Verb: 3rd Conjugation -ō	War and Peace 	814
+DCC815	lilaLemma:108350	integer -gra -grum: 	untouched, fresh, complete, whole 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	815
+DCC816	lilaLemma:129516	validus -a -um 	strong 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	816
+DCC817	lilaLemma:88429	alō alere aluī alitum 	nourish 	Verb: 3rd Conjugation -ō	Life and Being 	817
+DCC818	lilaLemma:103489	flōs flōris m. 	flower, bloom 	Noun: 3rd Declension	Animals/Plants 	818
+DCC819	lilaLemma:106103	īctus -ūs m. 	blow, stroke 	Noun: 4th Declension	Violence 	819
+DCC820	lilaLemma:94855	colligō -ere -lēgī -lēctum 	gather together, collect 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	820
+DCC821	lilaLemma:116892	pergō pergere perrēxī perrēctum 	"continue, proceed; awaken "	Verb: 3rd Conjugation -ō	Motion 	821
+DCC822	lilaLemma:135864	praesēns -ntis 	present, in person, ready 	Adjective: 3rd Declension	Place 	822
+DCC823	lilaIpoLemma:38296	rēctus -a -um 	straight, direct 	Adjective: 1st and 2nd Declension	Measurement 	823
+DCC824	lilaLemma:110053	lātus -a -um 	broad, wide 	Adjective: 1st and 2nd Declension	Measurement 	824
+DCC825	lilaLemma:118675	praeceptum -ī n. 	"rule, precept; command "	Noun: 2nd Declension	Justice 	825
+DCC826	lilaLemma:122379	recēdō -cēdere -cessī -cessum 	step back, recoil, recede, withdraw 	Verb: 3rd Conjugation -ō	Motion 	826
+DCC827	lilaLemma:131462	utrum 	"whether; utrum ... an: whether ... or "	Conjunction 	Conjunctions/Adverbs 	827
+DCC828	lilaLemma:102875	famēs -is f. 	hunger, famine 	Noun: 3rd Declension	Life and Being 	828
+DCC829	lilaLemma:116052	pariō parere peperī partum 	"bring forth, give birth to; accomplish "	Verb: 3rd Conjugation -iō	Life and Being 	829
+DCC830	lilaLemma:89567	appāreō -ēre -uī 	appear, become visible 	Verb: 2nd Conjugation	Vision 	830
+DCC831	lilaLemma:121286	quōmodo 	in what way, how? 	Conjunction 	Pronouns/Interrogatives 	831
+DCC832	lilaLemma:102627	error -ōris m. 	"wandering; error, mistake "	Noun: 3rd Declension	Travel 	832
+DCC833	lilaLemma:103683	forsitan, fortasse 	perhaps, perchance 	Adverb 	Conjunctions/Adverbs 	833
+DCC834	lilaLemma:96446	convertō -vertere -vertī -versum 	turn about, turn, change 	Verb: 3rd Conjugation -ō	Motion 	834
+DCC835	lilaLemma:119713	proficīscor -ficīscī -fectus sum 	set forth, go 	Verb: Deponent 	Travel 	835
+DCC836	lilaLemma:127502	secundus -a -um 	"following; favorable; (as numeral) second "	Adjective: 1st and 2nd Declension	Measurement 	836
+DCC837	lilaLemma:89397	aperiō aperīre aperuī apertum 	open 	Verb: 4th Conjugation	The House 	837
+DCC838	lilaLemma:93035	castus -a -um 	pure, spotless, chaste 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	838
+DCC839	lilaLemma:109161	iūdex iūdicis m. 	judge, juror 	Noun: 3rd Declension	Justice 	839
+DCC840	lilaLemma:109911	lapis lapidis m. 	stone 	Noun: 3rd Declension	Earth and Water 	840
+DCC841	lilaLemma:113696	nimis or nimium 	excessively 	Adverb 	Personality Traits/Characteristics 	841
+DCC842	lilaLemma:115001	onus oneris n. 	load, burden 	Noun: 3rd Declension	Measurement 	842
+DCC843	lilaLemma:115016	opera -ae f. 	labor, activity, work 	Noun: 1st Declension	Business/Money 	843
+DCC844	lilaLemma:116301	pauper -eris 	poor, lowly 	Adjective: 3rd Declension	Business/Money 	844
+DCC845	lilaLemma:87873	āēr āeris m. 	air 	Noun: 3rd Declension	Air and Fire 	845
+DCC846	lilaLemma:113566	negōtium -ī n. 	business 	Noun: 2nd Declension	Business/Money 	846
+DCC847	lilaLemma:116031	pāreō pārēre pāruī 	obey 	Verb: 2nd Conjugation	Verbs of Compelling/Directing 	847
+DCC848	lilaIpoLemma:109500	subitō 	suddenly, unexpectedly 	Adverb 	Time 	848
+DCC849	lilaLemma:89933	argentum -ī n. 	silver, money 	Noun: 2nd Declension	Business/Money 	849
+DCC850	lilaLemma:130917	ūtilis -e 	useful 	Adjective: 3rd Declension	Making/Doing 	850
+DCC851	lilaLemma:87965	aethēr aetheris n. 	pure upper air, ether, heaven, sky 	Noun: 3rd Declension	Air and Fire 	851
+DCC852	lilaLemma:112109	mereō merēre meruī meritum 	"deserve, merit; serve as a soldier "	Verb: 2nd Conjugation	Business/Money 	852
+DCC853	lilaLemma:118540	portō -āre 	carry a load 	Verb: 1st Conjugation	Measurement 	853
+DCC854	lilaLemma:119990	proprius -a -um 	one’s own, peculiar 	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives 	854
+DCC855	lilaLemma:90710	avis -is f. 	bird 	Noun: 3rd Declension	Animals/Plants 	855
+DCC856	lilaLemma:129550	vanus -a -um 	"empty; false, deceitful "	Adjective: 1st and 2nd Declension	Deception 	856
+DCC857	lilaLemma:111691	māteria -ae f. 	"material, subject matter; timber, lumber "	Noun: 1st Declension	Speech/Oratory 	857
+DCC858	lilaLemma:116272	paucī -ae -a 	few, a few 	Adjective: 1st and 2nd Declension	Measurement 	858
+DCC859	lilaLemma:130763	voluntās -ātis f. 	wish, desire 	Noun: 3rd Declension	Emotions 	859
+DCC860	lilaLemma:100716	ēgregius -a -um 	distinguished, uncommon 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	860
+DCC861	lilaLemma:99345	difficilis -e 	not easy, hard, difficult 	Adjective: 3rd Declension	Personality Traits/Characteristics 	861
+DCC862	lilaLemma:104632	gladius -ī m. 	sword 	Noun: 2nd Declension	War and Peace 	862
+DCC863	lilaLemma:93926	cibus -ī m. 	food 	Noun: 2nd Declension	Life and Being 	863
+DCC864	lilaLemma:93580	certō -āre 	"decide by contest; fight, compete, vie "	Verb: 1st Conjugation	Athletics 	864
+DCC865	lilaLemma:107903	initium -ī n.: 	beginning 	Noun: 2nd Declension	Time 	865
+DCC866	lilaLemma:117404	pertineō -tinēre -tinuī 	"extend over, reach; refer to, pertain to, be the business of "	Verb: 2nd Conjugation	Education/Knowledge 	866
+DCC867	lilaLemma:121130	quattuor 	four 	Adjective: Numeral 	Measurement 	867
+DCC868	lilaLemma:129250	turbō -āre 	disturb, confuse 	Verb: 1st Conjugation	Speech/Oratory 	868
+DCC869	lilaLemma:96194	cōnsūmō -sūmere -sūmpsī -sūmptum 	to use up, consume 	Verb: 3rd Conjugation -ō	Life and Being 	869
+DCC870	lilaLemma:96706	corrumpō -rumpere -rūpī -ruptum 	break up, destroy, ruin 	Verb: 3rd Conjugation -ō	Violence 	870
+DCC871	lilaLemma:106954	incidō incidere incidī 	"fall upon, fall into; happen "	Verb: 3rd Conjugation -ō	Motion 	871
+DCC872	lilaIpoLemma:113561	paulō, paulum 	to only a small extent, slightly, a little 	Adverb 	Measurement 	872
+DCC873	lilaLemma:105736	hospes hospitis m. 	"guest, guest-friend; stranger; host "	Noun: 3rd Declension	Social Life 	873
+DCC874	lilaLemma:122833	rīdeō -ēre rīsī rīsum 	laugh, laugh at 	Verb: 3rd Conjugation -ō	Emotions 	874
+DCC875	lilaLemma:87978	aevum -i n. 	"eternity; lifetime, age "	Noun: 2nd Declension	Lengths of Time 	875
+DCC876	lilaLemma:90634	audāx audācis 	"bold, daring; reckless "	Adjective: 3rd Declension	Personality Traits/Characteristics 	876
+DCC877	lilaLemma:120781	posterus -a -um 	next, later 	Adjective: 1st and 2nd Declension	Time 	877
+DCC878	lilaLemma:119325	praetor -ōris m. 	praetor, one of the chief Roman magistrates 	Noun: 3rd Declension	The City 	878
+DCC879	lilaLemma:122296	rūs rūris n. 	country 	Noun: 3rd Declension	Geography 	879
+DCC880	lilaLemma:99342	differō differre distulī dīlātum 	"scatter; publish, divulge; differ; defer, postpone "	Verb: Irregular 	Making/Doing 	880
+DCC881	lilaLemma:130433	vītō -āre 	avoid, shun 	Verb: 1st Conjugation	Social Life 	881
+DCC882	lilaIpoLemma:35410	prīvātus -a -um 	personal, private 	Adjective: 1st and 2nd Declension	Social Life 	882
+DCC883	lilaLemma:124541	serviō -īre 	be a slave, serve (+ dat.) 	Verb: 4th Conjugation	The Household 	883
+DCC884	lilaLemma:129863	vereor verērī veritus sum 	fear, stand in awe of 	Verb: Deponent 	Emotions 	884
+DCC885	lilaLemma:107822	ingredior -gredī -gressus sum: 	step in, enter 	Verb: Deponent 	Motion 	885
+DCC886	lilaLemma:87410	addūcō -ere -dūxī -ductum 	lead to, induce 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	886
+DCC887	lilaLemma:105727	hortor hortārī hortātus sum 	urge strongly, advise, exhort 	Verb: Deponent 	Speech/Oratory 	887
+DCC888	lilaLemma:122011	reus -ī m. 	defendant 	Noun: 2nd Declension	Justice 	888
+DCC889	lilaLemma:123717	scīlicet 	certainly, of course 	Adverb 	Conjunctions/Adverbs 	889
+DCC890	lilaLemma:97455	comparō -āre 	"get ready, provide; compare "	Verb: 1st Conjugation	Business/Money 	890
+DCC891	lilaLemma:117208	perpetuus -a -um 	unbroken, perpetual 	Adjective: 1st and 2nd Declension	Lengths of Time 	891
+DCC892	lilaLemma:98900	dēsīderō -āre 	long for, desire greatly 	Verb: 1st Conjugation	Love 	892
+DCC893	lilaLemma:93319	celebrō -āre 	frequent, throng, crowd 	Verb: 1st Conjugation	The City 	893
+DCC894	lilaLemma:95742	cōnficiō -ficere -fēcī -fectum 	"complete, accomplish; destroy, kill, consume "	Verb: 3rd Conjugation -iō	Violence 	894
+DCC895	lilaLemma:108382	intendō -tendere -tendī -tentum: 	stretch out, strain 	Verb: 3rd Conjugation -ō	Motion 	895
+DCC896	lilaLemma:109249	iūrō -āre 	"take an oath, swear; iūs iūrandum, oath "	Verb: 1st Conjugation	Justice 	896
+DCC897	lilaIpoLemma:111490	sōlum 	only, merely 	Adverb 	Measurement 	897
+DCC898	lilaLemma:90620	auctōritās -ātis f. 	influence, clout, authority 	Noun: 3rd Declension	Social Life 	898
+DCC899	lilaLemma:106001	iaciō iacere iēcī iactum 	throw, hurl 	Verb: 3rd Conjugation -iō	Athletics 	899
+DCC900	lilaLemma:109625	labōrō -āre 	"toil, work; be in trouble or distress "	Verb: 1st Conjugation	Business/Money 	900
+DCC901	lilaLemma:110382	liber librī m. 	book 	Noun: 2nd Declension	Writing/Poetry 	901
+DCC902	lilaLemma:110964	lūna -ae f. 	moon 	Noun: 1st Declension	Air and Fire 	902
+DCC903	lilaLemma:120154	prōtinus 	at once, forthwith 	Adverb 	Time 	903
+DCC904	lilaIpoLemma:1229	aequē 	equally 	Adverb 	Justice 	904
+DCC905	lilaLemma:95962	cōnor cōnārī cōnātus sum 	try, attempt 	Verb: Deponent 	Making/Doing 	905
+DCC906	lilaLemma:97286	cupīdō -inis f. 	desire, eagerness, craving 	Noun: 3rd Declension	Love 	906
+DCC907	lilaLemma:103104	ferē 	almost 	Adverb 	Conjunctions/Adverbs 	907
+DCC908	lilaLemma:108308	īnsula -ae f.: 	island 	Noun: 1st Declension	Geography 	908
+DCC909	lilaLemma:103296	"fīlia -ae f.; fīlius -ī m. "	"daughter; son "	Noun: 1st Declension	The Household 	909
+DCC910	lilaLemma:113381	narrō -āre 	relate, recount 	Verb: 1st Conjugation	Speech/Oratory 	910
+DCC911	lilaLemma:113509	necessitās -tātis f. 	necessity, need 	Noun: 3rd Declension	Business/Money 	911
+DCC912	lilaLemma:100715	ēgredior ēgredī ēgressus sum 	stride out, depart, disembark from (+ abl.) 	Verb: Deponent 	Travel 	912
+DCC913	lilaLemma:118267	poēta -ae m. 	poet 	Noun: 1st Declension	Writing/Poetry 	913
+DCC914	lilaLemma:98009	decem 	ten 	Adjective: Numeral 	Measurement 	914
+DCC915	lilaLemma:88785	amplus -a -um 	large, spacious 	Adjective: 1st and 2nd Declension	Measurement 	915
+DCC916	lilaIpoLemma:2739	aptus -a -um 	fit, suitable 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	916
+DCC917	lilaLemma:96035	cōnsequor -sequī -secūtus sum 	follow up, overtake, attain 	Verb: Deponent 	Motion 	917
+DCC918	lilaLemma:103777	frequēns -ntis 	in large numbers, often 	Adjective: 3rd Declension	Measurement 	918
+DCC919	lilaLemma:113734	nūntius -ī m. 	"messenger; news "	Noun: 2nd Declension	Travel 	919
+DCC920	lilaLemma:95648	condīciō -ōnis f. 	agreement, condition 	Noun: 3rd Declension	Business/Money 	920
+DCC921	lilaLemma:96478	convīvium -iī n. 	banquet, feast 	Noun: 2nd Declension	Social Life 	921
+DCC922	lilaLemma:103557	foedus -a -um 	foul 	Adjective: 1st and 2nd Declension	Other Senses 	922
+DCC923	lilaLemma:103882	fruor fruī frūctus sum 	enjoy the produce of, profit by, use (+ abl.) 	Verb: Deponent 	Emotions 	923
+DCC924	lilaLemma:113791	num 	interrogative particle implying negative answer 	Adverb 	Pronouns/Interrogatives 	924
+DCC925	lilaLemma:88265	albus -a -um 	white 	Adjective: 1st and 2nd Declension	Vision 	925
+DCC926	lilaLemma:97898	damnum -ī n. 	damage, injury 	Noun: 2nd Declension	Violence 	926
+DCC927	lilaLemma:103880	frūctus -ūs m. 	"fruit, crops; enjoyment, delight "	Noun: 4th Declension	Animals/Plants 	927
+DCC928	lilaLemma:93395	cēnseō cēnsēre cēnsuī cēnsum 	"assess, rate; think, decide "	Verb: 2nd Conjugation	Education/Knowledge 	928
+DCC929	lilaLemma:119676	prōdō prōdere prōdidī prōditum 	"publish, hand down; give over, betray "	Verb: 3rd Conjugation -ō	Verbs of Transport 	929
+DCC930	lilaLemma:119973	prōpōnō -pōnere -posuī -positum 	put forth, propose, present 	Verb: 3rd Conjugation -ō	Speech/Oratory 	930
+DCC931	lilaLemma:108268	īnstituō -stituere -stituī -stitūtum: 	"undertake; equip "	Verb: 3rd Conjugation -ō	Making/Doing 	931
+DCC932	lilaLemma:109131	item 	likewise 	Adverb 	Conjunctions/Adverbs 	932
+DCC933	lilaLemma:111274	magister magistrī m. 	master, chief 	Noun: 2nd Declension	Education/Knowledge 	933
+DCC934	lilaLemma:125625	stella -ae f. 	star 	Noun: 1st Declension	Air and Fire 	934
+DCC935	lilaLemma:100589	ēdūcō -dūcere -dūxī -ductum 	lead forth 	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing 	935
+DCC936	lilaLemma:104126	frūmentum -ī n. 	grain 	Noun: 2nd Declension	Animals/Plants 	936
+DCC937	lilaLemma:127111	suscipiō -cipere -cēpī ceptum 	take up 	Verb: 3rd Conjugation -iō	Verbs of Transport 	937
+DCC938	lilaLemma:121111	quasi 	as if 	Adverb 	Conjunctions/Adverbs 	938
+DCC939	lilaLemma:123066	sacerdōs -dōtis m./f. 	priest, priestess 	Noun: 3rd Declension	Religion 	939
+DCC940	lilaLemma:130137	vīcīnus -a -um 	neighboring, near 	Adjective: 1st and 2nd Declension	Geography 	940
+DCC941	lilaLemma:93200	caveō cavēre cāvī cautum 	be on guard, beware 	Verb: 2nd Conjugation	Violence 	941
+DCC942	lilaLemma:100824	ēligō ēligere ēlēgī ēlēctum 	pick out, select 	Verb: 3rd Conjugation -ō	The City 	942
+DCC943	lilaLemma:102885	familia -ae f. 	household, family 	Noun: 1st Declension	The Household 	943
+DCC944	lilaLemma:115620	paene 	almost 	Adverb 	Conjunctions/Adverbs 	944
+DCC945	lilaLemma:118735	praecipiō -cipere -cēpī -ceptum 	anticipate, advise, warn 	Verb: 3rd Conjugation -iō	Speech/Oratory 	945
+DCC946	lilaLemma:123378	sānus -a -um 	sound, sane 	Adjective: 1st and 2nd Declension	Life and Being 	946
+DCC947	lilaLemma:118664	potis -e 	powerful, able 	Adjective: 3rd Declension	Personality Traits/Characteristics 	947
+DCC948	lilaLemma:119505	prīncipium -ī n. 	beginning 	Noun: 2nd Declension	Time 	948
+DCC949	lilaLemma:124443	sepulcrum -ī n. 	place of burial, tomb, grave 	Noun: 2nd Declension	Life and Being 	949
+DCC950	lilaLemma:112813	mortālis -e 	"liable to death, mortal; (as subst.) a mortal "	Adjective: 3rd Declension	Life and Being 	950
+DCC951	lilaLemma:101298	epistula -ae f. 	letter 	Noun: 1st Declension	Writing/Poetry 	951
+DCC952	lilaLemma:107882	inimīcus -a -um: 	"unfriendly; (as subst.) enemy "	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	952
+DCC953	lilaLemma:108627	interrogō -āre 	put a question to, ask (+ acc.) 	Verb: 1st Conjugation	Speech/Oratory 	953
+DCC954	lilaLemma:96179	cōnsuētūdo -inis f. 	custom, habit 	Noun: 3rd Declension	Personality Traits/Characteristics 	954
+DCC955	lilaIpoLemma:19401	illūc 	to that place 	Adverb 	Place 	955
+DCC956	lilaLemma:99402	dīgnitās -ātis f. 	worth, reputation, honor 	Noun: 3rd Declension	Personality Traits/Characteristics 	956
+DCC957	lilaLemma:103921	fugō -āre 	put to flight 	Verb: 1st Conjugation	Travel 	957
+DCC958	lilaLemma:88003	afficiō -ficere -fēcī -fectum 	affect, visit with (+ abl.) 	Verb: 3rd Conjugation -iō	Social Life 	958
+DCC959	lilaLemma:87433	adhibeō -hibēre -hibuī -hibitum 	apply 	Verb: 2nd Conjugation	Making/Doing 	959
+DCC960	lilaLemma:92214	caelestis -e 	"from or of heaven; caelestēs, the gods "	Adjective: 3rd Declension	Air and Fire 	960
+DCC961	lilaLemma:112890	mulier -eris f. 	woman 	Noun: 3rd Declension	People 	961
+DCC962	lilaLemma:97990	dīvus -a -um 	"divine, godlike; (as subst.) a god "	Adjective: 1st and 2nd Declension	Religion 	962
+DCC963	lilaLemma:89778	arbitror arbitrārī arbitrātus sum 	consider, think 	Verb: Deponent 	Education/Knowledge 	963
+DCC964	lilaLemma:118575	posteā 	afterwards 	Adverb 	Time 	964
+DCC965	lilaLemma:87733	aedēs -is f. 	"building; (pl.) house "	Noun: 3rd Declension	The House 	965
+DCC966	lilaLemma:102732	fābula -ae f. 	account, tale, story 	Noun: 1st Declension	Writing/Poetry 	966
+DCC967	lilaIpoLemma:6099	celeriter 	quickly 	Adverb 	Time 	967
+DCC968	lilaLemma:118148	plērus- plēra- plērumque 	the greater part, very many, most, the majority 	Adjective: 1st and 2nd Declension	Measurement 	968
+DCC969	lilaLemma:121174	quiēscō quiēscere quiēvī quiētum 	"keep quiet; sleep "	Verb: 3rd Conjugation -ō	Life and Being 	969
+DCC970	lilaLemma:121298	quotiēns 	interr. how many times? how often? rel. as often as, whenever 	Adverb 	Pronouns/Interrogatives 	970
+DCC971	lilaLemma:127415	scientia -ae f. 	knowledge 	Noun: 1st Declension	Education/Knowledge 	971
+DCC972	lilaLemma:95769	cōnfiteor cōnfitērī cōnfessus sum 	"admit (a fact), confess (a crime); reveal, disclose "	Verb: Deponent 	Justice 	972
+DCC973	lilaLemma:99463	dīligō -ligere -lēxī -lēctum 	choose, cherish, love 	Verb: 3rd Conjugation -ō	Love 	973
+DCC974	lilaIpoLemma:111734	plērumque 	generally 	Adverb 	Measurement 	974
+DCC975	lilaLemma:100094	dormiō -īre 	sleep 	Verb: 4th Conjugation	Life and Being 	975
+DCC976	lilaLemma:135866	volucris -is f./m. 	bird 	Noun: 3rd Declension	Animals/Plants 	976
+DCC977	lilaLemma:130754	volucer -cris -cre 	flying 	Adjective: 3rd Declension	Animals/Plants 	977
+DCC978	lilaLemma:96898	creō -āre 	"produce, create; elect, choose "	Verb: 1st Conjugation	Making/Doing 	978
+DCC979	lilaLemma:103256	fidēlis -e 	faithful 	Adjective: 3rd Declension	Personality Traits/Characteristics 	979
+DCC980	lilaLemma:107327	indicō -āre 	point out, show, make known 	Verb: 1st Conjugation	Speech/Oratory 	980
+DCC981	lilaIpoLemma:73667	hodiē 	today 	Adverb 	Lengths of Time 	981
+DCC982	lilaLemma:99609	disciplīna -ae f. 	"training, instruction; learning, discipline "	Noun: 1st Declension	Education/Knowledge 	982
+DCC983	lilaIpoLemma:46366	vērē 	truly 	Adverb 	Speech/Oratory 	983
+DCC984	lilaIpoLemma:1101	aegrē 	with difficulty 	Adverb 	Life and Being 	984
+DCC985	lilaLemma:52877	fore 		Verb: Irregular 	Life and Being 	985
+DCC986	lilaLemma:87682	advertō -vertere -vertī -versum 	turn towards 	Verb: 3rd Conjugation -ō	Motion 	986
+DCC987	lilaLemma:87654	adveniō -īre -vēnī -ventum 	come to, arrive at 	Verb: 4th Conjugation	Travel 	987
+DCC988	lilaLemma:116474	pendō pendere pependī pēnsum 	"weigh, hang, suspend; pay "	Verb: 3rd Conjugation -ō	Business/Money 	988
+DCC989	lilaLemma:125886	studeō -ēre -uī 	be eager, be zealous, care for (+ dat.) 	Verb: 2nd Conjugation	Emotions 	989
+DCC990	lilaLemma:90185	ascendō -ere -scendī -scēnsum 	climb up, ascend 	Verb: 3rd Conjugation -ō	Travel 	990
+DCC991	lilaLemma:130955	vulgō 	commonly 	Adverb 	The City 	991
+DCC992	lilaIpoLemma:4964	breviter 	briefly 	Adverb 	Measurement 	992
+DCC993	lilaLemma:103682	fors fortis f. 	chance 	Noun: 3rd Declension	Religion 	993
+DCC994	lilaIpoLemma:16419	fēlīciter 	luckily 	Adverb 	Personality Traits/Characteristics 	994
+DCC995	lilaLemma:122809	revertō -vertere -vertī 	turn back 	Verb: 3rd Conjugation -ō	Motion 	995
+DCC996	lilaLemma:100563	ēdīcō -dīcere -dīxī -dictum 	declare 	Verb: 3rd Conjugation -ō	Speech/Oratory 	996
+DCC997	lilaLemma:113021	mundus -a -um 	clean, neat, elegant 	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics 	997
