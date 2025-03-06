@@ -49,11 +49,9 @@ server <- function(input, output,session) {
    
    # reset button ####
    observeEvent(input$reset, {
-      updateSelectInput(session, "headwordText", selected = '')
-      updateSelectInput(session, "headword", choices = lemmas)
-      updateSelectInput(session, "sintagma", choices = '--')
-      updateSelectInput(session, "funcao", choices = '--')
-      updateSelectInput(session, "traco", choices = '--')
+      updateSelectInput(session, 'sintagma', choices='TODOS')
+      updateSelectInput(session, 'traco', choices='TODOS')
+      updateSelectInput(session, 'funcao', choices='TODOS')
    })
    
    
@@ -70,39 +68,153 @@ server <- function(input, output,session) {
          }
       })
    
-   
-   
-   
-   # filter choices ####
+   # set head lemma ####
    observeEvent(
-      c(input$headword,input$sintagma,input$funcao,input$traco),{
+      c(input$headword),{
          if(input$headword!='--'){
-            df <- DataFrame[DataFrame$lema_regente==input$headword,]
-            
-            sintagmas <- unique(df$sintagma)
-            sintagmas <- sintagmas[order(sintagmas)]
-            sintagmas <- c('TODOS',sintagmas,'--')
-            updateSelectInput(session, 'sintagma', choices=sintagmas)
-            #
-            funcoes <- unique(df$funcao)
-            funcoes <- funcoes[order(funcoes)]
-            funcoes <- c('TODOS',funcoes,'--')
-            updateSelectInput(session, 'funcao', choices=funcoes)
-            #
-            tracos <- unique(df$traco)
-            tracos <- tracos[order(tracos)]
-            tracos[tracos==''] <- 'TODOS'
-            tracos <- c(tracos,'--')
-            updateSelectInput(session, 'traco', choices=tracos)
-            #
-         } else {
-            #ok
+            updateSelectInput(session, 'sintagma', choices='TODOS')
+            updateSelectInput(session, 'traco', choices='TODOS')
+            updateSelectInput(session, 'funcao', choices='TODOS')
          }
       })
    
-   # output ####
+
+   # filter choices ####
    observeEvent(
-      c(input$headword,input$sintagmas,input$tracos,input$funcoes),{
+      c(input$headword,input$sintagma,input$traco,input$funcao),{
+         
+         if(input$sintagma=='TODOS' && input$traco=='TODOS' && input$funcao=='TODOS'){
+            #
+            df <- DataFrame[DataFrame$lema_regente==input$headword,]
+            #
+            sintagmas <- unique(df$sintagma)
+            sintagmas <- sintagmas[order(sintagmas)]
+            sintagmas <- c('TODOS',sintagmas)
+            updateSelectInput(session, 'sintagma', choices=sintagmas)
+            #
+            tracos <- unique(df$traco)
+            tracos <- tracos[order(tracos)]
+            tracos <- c('TODOS',tracos)
+            updateSelectInput(session, 'traco', choices=tracos)
+            #
+            funcoes <- unique(df$funcao)
+            funcoes <- funcoes[order(funcoes)]
+            funcoes <- c('TODOS',funcoes)
+            updateSelectInput(session, 'funcao', choices=funcoes)
+            
+         }
+         
+         if(!input$sintagma %in% c('TODOS','--') && input$traco=='TODOS' && input$funcao=='TODOS'){
+            #
+            df <- DataFrame[DataFrame$lema_regente==input$headword 
+                            & DataFrame$sintagma==input$sintagma,]
+            #
+            updateSelectInput(session, 'sintagma', selected = input$sintagma)
+            #
+            tracos <- unique(df$traco)
+            tracos <- tracos[order(tracos)]
+            tracos <- c('TODOS',tracos)
+            updateSelectInput(session, 'traco', choices=tracos)
+            #
+            funcoes <- unique(df$funcao)
+            funcoes <- funcoes[order(funcoes)]
+            funcoes <- c('TODOS',funcoes)
+            updateSelectInput(session, 'funcao', choices=funcoes)
+            
+         }
+         
+         if(input$sintagma=='TODOS' && !input$traco %in% c('TODOS','--') && input$funcao=='TODOS'){
+            df <- DataFrame[DataFrame$lema_regente==input$headword 
+                            & DataFrame$traco==input$traco,]
+            #
+            sintagmas <- unique(df$sintagma)
+            sintagmas <- sintagmas[order(sintagmas)]
+            sintagmas <- c('TODOS',sintagmas)
+            updateSelectInput(session, 'sintagma', choices=sintagmas)
+            #
+            updateSelectInput(session, 'traco', selected = input$traco)
+            #
+            funcoes <- unique(df$funcao)
+            funcoes <- funcoes[order(funcoes)]
+            funcoes <- c('TODOS',funcoes)
+            updateSelectInput(session, 'funcao', choices=funcoes)
+            
+         }
+         
+         if(input$sintagma=='TODOS' && input$traco=='TODOS' && !input$funcao %in% c('TODOS','--')){
+            df <- DataFrame[DataFrame$lema_regente==input$headword 
+                            & DataFrame$funcao==input$funcao,]
+            #
+            sintagmas <- unique(df$sintagma)
+            sintagmas <- sintagmas[order(sintagmas)]
+            sintagmas <- c('TODOS',sintagmas)
+            updateSelectInput(session, 'sintagma', choices=sintagmas)
+            #
+            tracos <- unique(df$traco)
+            tracos <- tracos[order(tracos)]
+            tracos <- c('TODOS',tracos)
+            updateSelectInput(session, 'traco', choices=tracos)
+            #
+            updateSelectInput(session, 'funcao', selected = input$funcao)
+            
+         }
+         
+         if(!input$sintagma %in% c('TODOS','--') && !input$traco %in% c('TODOS','--') && input$funcao=='TODOS'){
+            df <- DataFrame[DataFrame$lema_regente==input$headword 
+                            & DataFrame$sintagma==input$sintagma
+                            & DataFrame$traco==input$traco,]
+            #
+            updateSelectInput(session, 'sintagma', selected = input$sintagma)
+            #
+            updateSelectInput(session, 'traco', selected = input$traco)
+            #
+            funcoes <- unique(df$funcao)
+            funcoes <- funcoes[order(funcoes)]
+            funcoes <- c('TODOS',funcoes)
+            updateSelectInput(session, 'funcao', choices=funcoes)
+            
+         }
+         
+         if(!input$sintagma %in% c('TODOS','--') && input$traco=='TODOS' && !input$funcao %in% c('TODOS','--')){
+            df <- DataFrame[DataFrame$lema_regente==input$headword 
+                            & DataFrame$sintagma==input$sintagma
+                            & DataFrame$funcao==input$funcao,]
+            #
+            updateSelectInput(session, 'sintagma', selected = input$sintagma)
+            #
+            tracos <- unique(df$traco)
+            tracos <- tracos[order(tracos)]
+            tracos <- c('TODOS',tracos)
+            updateSelectInput(session, 'traco', choices=tracos)
+            #
+            updateSelectInput(session, 'funcao', selected = input$funcao)
+         }
+         
+         if(input$sintagma=='TODOS' && !input$traco %in% c('TODOS','--') && !input$funcao %in% c('TODOS','--')){      
+            df <- DataFrame[DataFrame$lema_regente==input$headword 
+                            & DataFrame$traco==input$traco
+                            & DataFrame$funcao==input$funcao,]
+            #
+            sintagmas <- unique(df$sintagma)
+            sintagmas <- sintagmas[order(sintagmas)]
+            sintagmas <- c('TODOS',sintagmas)
+            updateSelectInput(session, 'sintagma', choices=sintagmas)
+            #
+            updateSelectInput(session, 'traco', selected = input$traco)
+            #
+            updateSelectInput(session, 'funcao', selected = input$funcao)
+            
+         }
+         
+      })
+   
+   
+   
+   
+   
+   # OUTPUT ####
+   observeEvent(
+      c(input$headword,input$sintagma,input$traco,input$funcao),{
          df <- DataFrame[DataFrame$lema_regente==input$headword,3:5]
          df <- df[!duplicated(df),]
          output$examples <- DT::renderDataTable(data.table(df))
