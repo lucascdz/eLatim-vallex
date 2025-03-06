@@ -131,6 +131,7 @@ rownames(SentencesDF) <- NULL
 # GET VALENCY ####
 VallencyDF <- right_join(SentencesDF,ArgumentsDF)
 VallencyDF <- VallencyDF[,!colnames(VallencyDF) %in% c('lila_id','tokenHEAD')]
+VallencyDF[is.na(VallencyDF)] <- ''
 VallencyList <- split(VallencyDF,VallencyDF$lemmaHEAD)
 
 # save ##
