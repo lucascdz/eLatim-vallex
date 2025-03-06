@@ -14,7 +14,7 @@ GetConlluMetadata <- function(FilePath){
 
    CorpusMetaDF <- data.frame(
       sent_id=sent_ids,
-      text=texts,
+      sentenca=texts,
       stringsAsFactors = F)
 
    return(CorpusMetaDF)
