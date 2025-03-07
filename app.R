@@ -6,6 +6,9 @@ install.packages(requirements[!requirements %in% as.data.frame(installed.package
 
 ## run app
 source('./R/MyApp.R')
+while(!'MyApp' %in% ls()){
+   Sys.sleep(5000)
+}
 runApp(MyApp('./data/DataFrame.tsv'),launch.browser = T)
 
 
