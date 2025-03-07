@@ -1,4 +1,4 @@
-ontolex.LexicalEntry	ontolex.canonicalForm	Headword 	Definition 	Part of Speech 	Semantic Group 	Frequency Rank
+id	lila_id	Headword 	Definition 	Part of Speech 	Semantic Group 	Frequency Rank
 DCC001	lilaLemma:101542	et 	and 	Conjunction 	Conjunctions/Adverbs 	1
 DCC002	lilaLemma:126689	sum esse fuī futūrum 	"be, exist; fut. infin. often = fore, impf. subj. often = forem for essem "	Verb: Irregular 	Life and Being 	2
 DCC003	lilaLemma:121354	quī quae quod 	who, which, what 	Pronoun 	Pronouns/Interrogatives 	3

@@ -1,10 +1,10 @@
 # eLatim-vallex
 
 corpusRdsPath <- './data/CorpusUDTrad.rds'
-source('./R/CorpusUD_getData_longtable.R')
-GetVallencyData(corpusRdsPath)
+source('./R/GetDataFrame.R')
+GetDataFrame(corpusRdsPath)
 
-df_path <- './data/VallencyDataframeLT.tsv'
+df_path <- './data/DataFrame.tsv'
 source('./R/MyApp.R')
 MyApp(df_path)
 
