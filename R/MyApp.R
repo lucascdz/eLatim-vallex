@@ -1,6 +1,7 @@
 library(data.table)
 library(shiny)
 
+#df_path <- './data/DataFrame.tsv'
 MyApp <- function(df_path){
    
    DataFrame <- read.csv(df_path,sep='\t')
