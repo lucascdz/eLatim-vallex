@@ -9,6 +9,13 @@ A shiny app for browsing through a latin sentence database using valency data as
 * Semantic features: [Diccionario Didáctico Digital de Latín](http://repositorios.fdi.ucm.es/DiccionarioDidacticoLatin/) and 
 * Portuguese translations: special contribution from [José Dejalma Dezotti](http://lattes.cnpq.br/8771278588762734).
 
+## How to install
+1. Download and install **R** (for [Mac](https://cran.r-project.org/bin/macosx/), for [Linux](https://cran.r-project.org/bin/linux/), for [Windows](https://cran.r-project.org/bin/linux/))
+2. Download and unzip [eLatim-vallex](https://github.com/lucascdz/eLatim-vallex/archive/refs/heads/main.zip) repository.
+3. Copy **eLatim-vallex** folder to your **Documents** folder
+4. Open the app by running:
+   * in Windows Prompt (but NOT in Terminal): _"C:\\Program Files\\R\\R-4.4.3\\bin\\R.exe" -e "setwd('~\\eLatim-vallex-main') ; getwd() ; source('.\\app.R') ; runApp( MyApp(DataFrame),launch.browser = T)"_
+   * in Mac/Linux Terminal: _R -e "path<-c(path.expand('~/Documents/eLatim-vallex-main')) ; setwd(path) ; getwd() ; source('./app.R') ; runApp( MyApp(DataFrame),launch.browser = T)"_
 
 ## How to cite this software:
 
