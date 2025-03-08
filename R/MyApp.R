@@ -20,8 +20,8 @@ MyApp <- function(df_path){
                      p('Seja bem vindo!',br(),br(),'Escolha abaixo o elemento regente',em('(head)'),'da estrutura sintática.',br()),
                      hr(),
                      code('REGENTE'),
-                     textInput("headwordText", "", value = "", placeholder = 'digite algumas letras'),
-                     selectInput("headword", "lema", choices = lemmas, selected = 'dico'),
+                     #textInput("headwordText", "", value = "", placeholder = 'digite algumas letras'),
+                     selectInput("headword", "lema", choices = lemmas, selected = 'lego'),
                      textOutput('reg_pos',inline = T),
                      br(),
                      textOutput('reg_cat',inline = T),
@@ -29,9 +29,9 @@ MyApp <- function(df_path){
                      textOutput('reg_stem',inline = T),
                      hr(),
                      code('DEPENDENTE'),
-                     selectInput("sintagma", "sintagma", choices = '--'),
-                     selectInput("traco", "traço", choices = '--'),
-                     selectInput("funcao", "função", choices = '--'),
+                     selectInput("sintagma", "sintagma", choices = 'TODOS'),
+                     selectInput("traco", "traço", choices = 'TODOS'),
+                     selectInput("funcao", "função", choices = 'TODOS'),
                      hr(),
                      p(em('para garantir a precisão dos resultados, clique no botão abaixo antes de iniciar uma nova combinação'),br()),
                      actionButton('reset','reiniciar')
@@ -60,28 +60,28 @@ MyApp <- function(df_path){
       
       # reset button ####
       observeEvent(input$reset, {
-         updateSelectInput(session, 'sintagma', choices='TODOS')
-         updateSelectInput(session, 'traco', choices='TODOS')
-         updateSelectInput(session, 'funcao', choices='TODOS')
+         updateSelectInput(session, 'sintagma', selected='TODOS')
+         updateSelectInput(session, 'traco', selected='TODOS')
+         updateSelectInput(session, 'funcao', selected='TODOS')
       })
       
       
-      # search headword ####
-      observeEvent(
-         c(input$headwordText),{
-            if(!is.null(input$headwordText) && nchar(input$headwordText)>0){
-               lemmaChoices <- lemmas[str_detect(lemmas,input$headwordText)]
-               #lemmaChoices <- c(lemmaChoices,'--')
-               updateSelectInput(session, "headword", choices=lemmaChoices)
-            }
-         })
+      # search headword (DEPRECATED: 'selectInput()' allows text input also) ####
+      #observeEvent(
+      #   c(input$headwordText),{
+      #      if(!is.null(input$headwordText) && nchar(input$headwordText)>0){
+      #         lemmaChoices <- lemmas[str_detect(lemmas,input$headwordText)]
+      #         #lemmaChoices <- c(lemmaChoices,'--')
+      #         updateSelectInput(session, "headword", choices=lemmaChoices)
+      #      }
+      #   })
       
       # get head class  ####
       observeEvent(
          c(input$headword),{
-            updateSelectInput(session, 'sintagma', choices='TODOS')
-            updateSelectInput(session, 'traco', choices='TODOS')
-            updateSelectInput(session, 'funcao', choices='TODOS')
+            updateSelectInput(session, 'sintagma', selectInput='TODOS')
+            updateSelectInput(session, 'traco', selectInput='TODOS')
+            updateSelectInput(session, 'funcao', selectInput='TODOS')
             #
             output$reg_pos <- renderText(DataFrame$reg_pos[DataFrame$reg_lemma==input$headword][1])
             output$reg_cat <- renderText(DataFrame$reg_cat[DataFrame$reg_lemma==input$headword][1])
@@ -227,16 +227,16 @@ MyApp <- function(df_path){
          c(input$headword,input$sintagma,input$traco,input$funcao),{
             
             if(input$sintagma=='TODOS' && input$traco=='TODOS' && input$funcao=='TODOS'){
-               df <- DataFrame[DataFrame$reg_lemma==input$headword,3:5]
+               df <- DataFrame[DataFrame$reg_lemma==input$headword,3:6]
                df <- df[!duplicated(df),]
-               output$examples <- DT::renderDataTable(data.table(df))
+               output$examples <- DT::renderDataTable(data.table(df), options = list(pageLength = 50))
             }
             
             if(!input$sintagma %in% c('TODOS','--') && input$traco=='TODOS' && input$funcao=='TODOS'){
                df <- DataFrame[DataFrame$reg_lemma==input$headword & 
                                   DataFrame$sintagma==input$sintagma,1:6]
                df <- df[!duplicated(df),]
-               output$examples <- DT::renderDataTable(data.table(df))
+               output$examples <- DT::renderDataTable(data.table(df), options = list(pageLength = 50))
             }
             
             if(input$sintagma=='TODOS' && !input$traco %in% c('TODOS','--') && input$funcao=='TODOS'){
@@ -244,7 +244,7 @@ MyApp <- function(df_path){
                df <- DataFrame[DataFrame$reg_lemma==input$headword & 
                                   DataFrame$traco==input$traco,1:6]
                df <- df[!duplicated(df),]
-               output$examples <- DT::renderDataTable(data.table(df))
+               output$examples <- DT::renderDataTable(data.table(df), options = list(pageLength = 50))
                
             }
             
@@ -253,7 +253,7 @@ MyApp <- function(df_path){
                df <- DataFrame[DataFrame$reg_lemma==input$headword & 
                                   DataFrame$funcao==input$funcao,1:6]
                df <- df[!duplicated(df),]
-               output$examples <- DT::renderDataTable(data.table(df))
+               output$examples <- DT::renderDataTable(data.table(df), options = list(pageLength = 50))
                
             }
             
@@ -263,7 +263,7 @@ MyApp <- function(df_path){
                                   DataFrame$sintagma==input$sintagma & 
                                   DataFrame$traco==input$traco,1:6]
                df <- df[!duplicated(df),]
-               output$examples <- DT::renderDataTable(data.table(df))
+               output$examples <- DT::renderDataTable(data.table(df), options = list(pageLength = 50))
                
             }
             
@@ -273,7 +273,7 @@ MyApp <- function(df_path){
                                   DataFrame$sintagma==input$sintagma & 
                                   DataFrame$funcao==input$funcao,1:6]
                df <- df[!duplicated(df),]
-               output$examples <- DT::renderDataTable(data.table(df))
+               output$examples <- DT::renderDataTable(data.table(df), options = list(pageLength = 50))
                
             }
             if(input$sintagma=='TODOS' && !input$traco %in% c('TODOS','--') && !input$funcao %in% c('TODOS','--')){
@@ -282,7 +282,7 @@ MyApp <- function(df_path){
                                   DataFrame$traco==input$traco & 
                                   DataFrame$funcao==input$funcao,1:6]
                df <- df[!duplicated(df),]
-               output$examples <- DT::renderDataTable(data.table(df))
+               output$examples <- DT::renderDataTable(data.table(df), options = list(pageLength = 50))
                
             }
             if(!input$sintagma %in% c('TODOS','--') && !input$traco %in% c('TODOS','--') && !input$funcao %in% c('TODOS','--')){
@@ -292,7 +292,7 @@ MyApp <- function(df_path){
                                   DataFrame$traco==input$traco & 
                                   DataFrame$funcao==input$funcao,1:6]
                df <- df[!duplicated(df),]
-               output$examples <- DT::renderDataTable(data.table(df))
+               output$examples <- DT::renderDataTable(data.table(df), options = list(pageLength = 50))
                
             }
             
