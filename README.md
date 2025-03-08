@@ -10,7 +10,7 @@ A shiny app for browsing through a latin sentence database using valency data as
 * Portuguese translations: special contribution from [José Dejalma Dezotti](http://lattes.cnpq.br/8771278588762734).
 
 ## How to install
-1. Download and install **R** (for [Mac](https://cran.r-project.org/bin/macosx/), for [Linux](https://cran.r-project.org/bin/linux/), for [Windows](https://cran.r-project.org/bin/linux/))
+1. Download and install **R** (for [Mac](https://cran.r-project.org/bin/macosx/), for [Linux](https://cran.r-project.org/bin/linux/), for [Windows](https://cran.r-project.org/bin/windows/))
 2. Download and unzip [eLatim-vallex](https://github.com/lucascdz/eLatim-vallex/archive/refs/heads/main.zip) repository.
 3. Copy **eLatim-vallex-main** folder to your **Documents** folder (check for duplication, i.e. two folders with the same name, one inside the other)
 4. Open the app by running:
