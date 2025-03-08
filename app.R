@@ -4,9 +4,12 @@
 requirements <- c('shiny','tidyverse','DT','data.table','readtext')
 install.packages(requirements[!requirements %in% as.data.frame(installed.packages(),stringsAsFactors = F)[['Package']]])
 
-## run app
+## load app
 source('./R/MyApp.R')
-MyApp('./data/DataFrame.tsv')
+DataFrame <- read.csv('./data/DataFrame.tsv',sep='\t')
+
+# run app
+# MyApp(DataFrame)
 
 
 # For updating data sources, uncomment these lines:

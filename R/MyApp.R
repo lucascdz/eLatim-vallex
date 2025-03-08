@@ -2,9 +2,9 @@ library(data.table)
 library(shiny)
 
 #df_path <- './data/DataFrame.tsv'
-MyApp <- function(df_path){
+MyApp <- function(DataFrame){
    
-   DataFrame <- read.csv(df_path,sep='\t')
+   #DataFrame <- read.csv(df_path,sep='\t')
    lemmas <- unique(DataFrame$reg_lemma)
    lemmas <- lemmas[order(lemmas)]
    #lemmas[lemmas==''] <- '--'
@@ -79,9 +79,9 @@ MyApp <- function(df_path){
       # get head class  ####
       observeEvent(
          c(input$headword),{
-            updateSelectInput(session, 'sintagma', selectInput='TODOS')
-            updateSelectInput(session, 'traco', selectInput='TODOS')
-            updateSelectInput(session, 'funcao', selectInput='TODOS')
+            updateSelectInput(session, 'sintagma', selected='TODOS')
+            updateSelectInput(session, 'traco', selected='TODOS')
+            updateSelectInput(session, 'funcao', selected='TODOS')
             #
             output$reg_pos <- renderText(DataFrame$reg_pos[DataFrame$reg_lemma==input$headword][1])
             output$reg_cat <- renderText(DataFrame$reg_cat[DataFrame$reg_lemma==input$headword][1])
