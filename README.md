@@ -12,7 +12,7 @@ A shiny app for browsing through a latin sentence database using valency data as
 ## How to install
 1. Download and install **R** (for [Mac](https://cran.r-project.org/bin/macosx/), for [Linux](https://cran.r-project.org/bin/linux/), for [Windows](https://cran.r-project.org/bin/linux/))
 2. Download and unzip [eLatim-vallex](https://github.com/lucascdz/eLatim-vallex/archive/refs/heads/main.zip) repository.
-3. Unzip and copy **eLatim-vallex** folder to your **Documents** folder
+3. Copy **eLatim-vallex-main** folder to your **Documents** folder (check for duplication, i.e. two folders with the same name, one inside the other)
 4. Open the app by running:
    * in Windows Prompt (but NOT in Terminal): _"C:\\Program Files\\R\\R-4.4.3\\bin\\R.exe" -e "setwd('~\\eLatim-vallex-main') ; getwd() ; source('.\\app.R') ; runApp( MyApp(DataFrame),launch.browser = T)"_
    * in Mac/Linux Terminal: _R -e "path<-c(path.expand('~/Documents/eLatim-vallex-main')) ; setwd(path) ; getwd() ; source('./app.R') ; runApp( MyApp(DataFrame),launch.browser = T)"_
