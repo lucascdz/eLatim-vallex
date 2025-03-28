@@ -1,5 +1,5 @@
 # eLatim-vallex
-A shiny app for browsing through a latin sentence database using valency data as selectors.
+A shiny app for browsing a Latin-Portuguese parallel corpus using valency data as input.
 
 ## Types (and sources) of data
 
