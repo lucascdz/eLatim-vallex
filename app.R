@@ -2,7 +2,7 @@
 
 ## check required packages
 requirements <- c('shiny','tidyverse','DT','data.table','readtext')
-install.packages(requirements[!requirements %in% as.data.frame(installed.packages(),stringsAsFactors = F)[['Package']]])
+install.packages(requirements[!requirements %in% as.data.frame(installed.packages(),stringsAsFactors = F)[['Package']]], repos = 'https://cran.rstudio.com/')
 
 ## load app
 source('./R/MyApp.R')
